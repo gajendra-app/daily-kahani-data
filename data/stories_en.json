@@ -1,6 +1,26 @@
 {
   "stories": [
     {
+  "id": "en_story_260316",
+  "title": "The Promise Under the Old Tree",
+  "category": "Friendship",
+  "banner_urls": [
+    "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
+    "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+    "https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=800&q=80",
+    "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80"
+  ],
+  "date": "2026-03-15",
+  "read_time": 5,
+  "tags": [
+    "friendship",
+    "loyalty",
+    "promise"
+  ],
+  "language": "en",
+  "content": "In a small town surrounded by fields and hills lived two best friends, Arjun and Kabir. They had grown up together since childhood and spent almost every day playing near a large banyan tree at the edge of the village.\n\nThe tree had become their special place. Under its wide branches, they shared dreams, secrets, and endless laughter.\n\nOne evening, as the sun was setting, Kabir said, \"No matter where life takes us, we should promise to always remain friends.\"\n\nArjun smiled and picked up a small stone. He carved a tiny mark on the tree and said, \"Whenever we return here and see this mark, it will remind us of our friendship.\"\n\nYears passed, and life slowly changed. Kabir moved to a distant city for work, while Arjun stayed in the village to take care of his family.\n\nThough distance grew between them, neither forgot the old banyan tree.\n\nOne rainy evening after many years, Arjun walked toward the tree, thinking about the past. As he reached it, he noticed someone standing there.\n\nIt was Kabir.\n\nBoth friends looked at the small carved mark on the tree and laughed.\n\nKabir said, \"No matter how far we go, true friendship always finds the way back.\"\n\nThey sat under the tree again, just like the old days, realizing that time and distance could never weaken a genuine friendship.\n\nFrom that day on, the old banyan tree remained a silent witness to a promise that time could never break."
+},
+    {
       "id": "en_story_260315",
       "title": "The River That Remembered",
       "category": "Folklore",
