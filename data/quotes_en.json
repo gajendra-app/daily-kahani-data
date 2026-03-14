@@ -1,6 +1,24 @@
 {
   "quotes": [
     {
+      "id": "en_quote_260317",
+      "text": "Your attitude determines your direction in life.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
+      "date": "2026-03-17",
+      "category": "Attitude",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260316",
+      "text": "A real friend is one who walks in when the rest of the world walks out.",
+      "author": "Walter Winchell",
+      "banner_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80",
+      "date": "2026-03-16",
+      "category": "Friendship",
+      "language": "en"
+    },
+    {
       "id": "en_quote_260315",
       "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
