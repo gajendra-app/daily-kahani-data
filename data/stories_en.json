@@ -1,6 +1,26 @@
 {
   "stories": [
     {
+      "id": "en_story_260320",
+      "title": "The Locked Room",
+      "category": "Mystery",
+      "banner_urls": [
+        "https://images.unsplash.com/photo-1474473528226-64d6cdf1c6d2?w=800&q=80",
+        "https://images.unsplash.com/photo-1503437313881-503a91226402?w=800&q=80",
+        "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
+        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80"
+      ],
+      "date": "2026-03-20",
+      "read_time": 6,
+      "tags": [
+        "mystery",
+        "secrets",
+        "night"
+      ],
+      "language": "en",
+      "content": "When Emma moved into the old mansion on the outskirts of town, she had heard the rumors. People said the house had many secrets, but Emma never believed in ghost stories.\n\nThe mansion had once belonged to a wealthy family, but it had been empty for nearly forty years. Dust covered the furniture, and the wooden floors creaked with every step.\n\nOne evening while exploring the upper floor, Emma noticed something strange — a narrow corridor that ended with a single locked door.\n\nThe door looked older than the rest of the house. Its paint had peeled away, and the metal handle was cold and worn.\n\nCuriosity grew stronger.\n\nEmma searched the house for hours before finally finding a small rusty key inside an old drawer in the study.\n\nWith hesitation, she returned to the corridor.\n\nThe air felt colder than before.\n\nShe slowly inserted the key into the lock. The door opened with a long creaking sound.\n\nInside was a small room that looked untouched by time. A single chair stood near a window, and a desk held a stack of yellowed letters.\n\nEmma began reading them.\n\nThey were written by a man who once lived in the mansion. The letters spoke about a hidden treasure and a terrible betrayal among family members.\n\nBut the last letter was different.\n\nIt ended with a warning:\n\n\"If you are reading this, it means the room has finally been opened again. But remember — not every secret wants to be uncovered.\"\n\nAt that moment, the door behind Emma suddenly slammed shut.\n\nShe turned quickly.\n\nThe key was no longer in the lock.\n\nAnd from somewhere inside the silent mansion, slow footsteps began echoing through the corridor."
+    },
+    {
       "id": "en_story_260319",
       "title": "The Bridge of Small Steps",
       "category": "Life",
