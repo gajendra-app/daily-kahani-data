@@ -1,21 +1,21 @@
 {
   "quotes": [
     {
-      "id": "hi_quote_260307_b",
-      "text": "आप स्वयं वह बदलाव बनिए जो आप दुनिया में देखना चाहते हैं।",
-      "author": "महात्मा गांधी",
-      "banner_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
-      "date": "2026-03-07",
-      "category": "जीवन",
-      "language": "hi"
-    },
-    {
       "id": "hi_quote_260320",
       "text": "कठिनाइयाँ मनुष्य को कमजोर नहीं बनातीं, बल्कि उसके साहस और धैर्य को मजबूत करती हैं।",
       "author": "स्वामी विवेकानंद",
       "banner_url": "https://images.unsplash.com/photo-1527004013197-933b977e87ed?w=800&q=80",
       "date": "2026-03-20",
       "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260319",
+      "text": "आप स्वयं वह बदलाव बनिए जो आप दुनिया में देखना चाहते हैं।",
+      "author": "महात्मा गांधी",
+      "banner_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
+      "date": "2026-03-19",
+      "category": "जीवन",
       "language": "hi"
     },
     {
