@@ -2,6 +2,25 @@
   "stories": [
     {
       "id": "en_story_260318",
+      "title": "The Bridge of Small Steps",
+      "category": "Life",
+      "banner_urls": [
+        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+        "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80"
+      ],
+      "date": "2026-03-18",
+      "read_time": 5,
+      "tags": [
+        "life",
+        "patience",
+        "wisdom"
+      ],
+      "language": "en",
+      "content": "In a quiet village surrounded by hills, there was a wooden bridge that connected the village to the main road. Every morning, people crossed it on their way to work, school, or the market.\n\nThe bridge was built many years ago by an old carpenter named Dev.\n\nPeople often wondered why the bridge had so many small wooden planks instead of long boards like other bridges. One day, a curious boy named Aman asked Dev, \"Why didn't you build the bridge with big pieces of wood?\"\n\nDev smiled and replied, \"Because life is not built with giant steps. It is built with many small ones.\"\n\nYears passed, and Dev grew old. One monsoon season, a strong storm hit the village. The river below the bridge swelled with powerful currents.\n\nMany villagers feared the bridge would collapse.\n\nBut when the storm ended, they saw something surprising. A few wooden planks had broken, but the bridge itself still stood strong.\n\nThe small planks had protected the structure. Even if one piece broke, the others held the bridge together.\n\nThe villagers repaired the damaged planks easily, and life continued as usual.\n\nFrom that day on, the villagers understood Dev's wisdom.\n\nLife is like that bridge. If everything depends on one big step, a single failure can break it.\n\nBut when life is built with many small efforts, patience, and lessons, it becomes strong enough to survive even the biggest storms."
+    },
+    {
+      "id": "en_story_260318",
       "title": "A Letter Left in the Library",
       "category": "Love",
       "banner_urls": [
