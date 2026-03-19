@@ -1,6 +1,51 @@
 {
   "quotes": [
     {
+    "id": "hi_quote_260325",
+    "text": "संघर्ष जितना कठिन होगा, जीत उतनी ही शानदार होगी।",
+    "author": "महात्मा गाँधी",
+    "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+    "date": "2026-03-25",
+    "category": "प्रेरणा",
+     "language": "hi"
+    },
+    {
+     "id": "hi_quote_260324",
+     "text": "सफलता पाने के लिए जरूरी है कि आप असफलताओं से सीखें और आगे बढ़ते रहें।",
+     "author": "ए.पी.जे. अब्दुल कलाम",
+     "banner_url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=800&q=80",
+     "date": "2026-03-24",
+     "category": "जीवन",
+     "language": "hi"
+    },
+    {
+     "id": "hi_quote_260323",
+     "text": "जीवन में कठिनाइयाँ हमें मजबूत बनाने के लिए आती हैं, न कि हमें रोकने के लिए।",
+     "author": "रवीन्द्रनाथ टैगोर",
+     "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+     "date": "2026-03-23",
+     "category": "जीवन",
+     "language": "hi"
+    },
+    {
+     "id": "hi_quote_260322",
+     "text": "आपकी सोच ही आपकी दुनिया बनाती है, इसलिए हमेशा सकारात्मक सोचें।",
+     "author": "स्वामी विवेकानंद",
+     "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+     "date": "2026-03-22",
+     "category": "जीवन",
+     "language": "hi"
+    },
+    {
+     "id": "hi_quote_260321",
+     "text": "जो व्यक्ति अपने समय का सम्मान करता है, वही जीवन में सफल होता है।",
+     "author": "चाणक्य",
+     "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+     "date": "2026-03-21",
+     "category": "जीवन",
+     "language": "hi"
+    },
+    {
       "id": "hi_quote_260320",
       "text": "कठिनाइयाँ मनुष्य को कमजोर नहीं बनातीं, बल्कि उसके साहस और धैर्य को मजबूत करती हैं।",
       "author": "स्वामी विवेकानंद",
