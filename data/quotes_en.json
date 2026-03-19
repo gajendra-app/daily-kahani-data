@@ -1,5 +1,50 @@
 {
   "quotes": [
+   {
+     "id": "en_quote_260325",
+    "text": "A wise man learns more from his enemies than a fool from his friends.",
+    "author": "Chanakya",
+    "banner_url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
+    "date": "2026-03-25",
+    "category": "Wisdom",
+    "language": "en"
+    },
+    {
+     "id": "en_quote_260316",
+     "text": "Do not wait for the perfect time; start where you are and make it perfect along the way.",
+     "author": "Mark Twain",
+     "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+     "date": "2026-03-24",
+     "category": "Motivation",
+     "language": "en"
+    },
+    {
+     "id": "en_quote_260323",
+     "text": "Life isn’t about finding yourself. Life is about creating yourself.",
+     "author": "George Bernard Shaw",
+     "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+     "date": "2026-03-23",
+     "category": "Life",
+     "language": "en"
+    },
+    {
+     "id": "en_quote_260322",
+     "text": "Believe you can and you're halfway there.",
+     "author": "Theodore Roosevelt",
+     "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+    "date": "2026-03-22",
+    "category": "Motivation",
+    "language": "en"
+    },
+    {
+     "id": "en_quote_260321",
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis",
+    "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+    "date": "2026-03-21",
+    "category": "Motivation",
+    "language": "en"
+    },
     {
       "id": "en_quote_260320",
       "text": "When a person performs their duty with sincerity and detachment, peace naturally follows their actions.",
