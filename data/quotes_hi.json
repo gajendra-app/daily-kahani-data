@@ -1,92 +1,92 @@
 {
   "quotes": [
     {
-      "id": "hi_quote_260310",
+      "id": "hi_quote_260404",
       "text": "ज़िंदगी एक सफर है, मंज़िल से ज़्यादा खूबसूरत रास्ता होता है। हर क़दम में एक नया अंदाज़ होता है।",
       "author": "गुलज़ार",
       "banner_url": "https://images.unsplash.com/photo-1489493887464-892be6d1daae?w=800&q=80",
-      "date": "2026-03-10",
+      "date": "2026-04-04",
       "category": "जीवन",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260309",
+      "id": "hi_quote_260403",
       "text": "अच्छे कर्म करते रहो, फल की चिंता मत करो। कर्म का फल ईश्वर तय करता है, समय तय करता है।",
       "author": "भगवद् गीता",
       "banner_url": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=800&q=80",
-      "date": "2026-03-09",
+      "date": "2026-04-03",
       "category": "आध्यात्म",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260308",
+      "id": "hi_quote_260402",
       "text": "कोई भी महान कार्य बिना कठिनाई के नहीं होता। जितनी गहरी जड़ें, उतना ऊँचा पेड़।",
       "author": "स्वामी विवेकानंद",
       "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
-      "date": "2026-03-08",
+      "date": "2026-04-02",
       "category": "प्रेरणा",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260307",
+      "id": "hi_quote_260401",
       "text": "खुद को बदलो, दुनिया बदल जाएगी। खुद को सुधारो, ज़िंदगी सुधर जाएगी।",
       "author": "महात्मा गाँधी",
       "banner_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
-      "date": "2026-03-07",
+      "date": "2026-04-01",
       "category": "जीवन",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260306",
+      "id": "hi_quote_260331",
       "text": "वो जो आज कठिन लगता है, कल की ताकत बन जाएगा। संघर्ष ही इंसान को गढ़ता है।",
       "author": "चाणक्य",
       "banner_url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80",
-      "date": "2026-03-06",
+      "date": "2026-03-31",
       "category": "ज्ञान",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260305",
+      "id": "hi_quote_260330",
       "text": "उगते सूरज को जो प्रणाम करता है, वो अपने मन में एक नई उम्मीद जगाता है। हर सुबह नई शुरुआत है।",
       "author": "कबीर दास",
       "banner_url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
-      "date": "2026-03-05",
+      "date": "2026-03-30",
       "category": "आध्यात्म",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260304",
+      "id": "hi_quote_260329",
       "text": "जो इंसान अपने डर को पहचान लेता है, वो उसे हरा भी सकता है। डर से भागो मत, उससे मिलो।",
       "author": "रबीन्द्रनाथ टैगोर",
       "banner_url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&q=80",
-      "date": "2026-03-04",
+      "date": "2026-03-29",
       "category": "साहस",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260303",
+      "id": "hi_quote_260328",
       "text": "समय एक बार बीत जाए, तो वापस नहीं आता। इसलिए हर पल को जियो, हर रिश्ते को सहेजो।",
       "author": "तुलसीदास",
       "banner_url": "https://images.unsplash.com/photo-1473177104440-ffee2f376098?w=800&q=80",
-      "date": "2026-03-03",
+      "date": "2026-03-28",
       "category": "जीवन",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260302",
+      "id": "hi_quote_260327",
       "text": "जिसके मन में दया है, जिसके वचन में सच्चाई है, जिसके हाथ में काम है — वही सच्चा इंसान है।",
       "author": "संत कबीर",
       "banner_url": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&q=80",
-      "date": "2026-03-02",
+      "date": "2026-03-27",
       "category": "आध्यात्म",
       "language": "hi"
     },
     {
-      "id": "hi_quote_260301",
+      "id": "hi_quote_260326",
       "text": "बड़ा बनने के लिए पहले अच्छा इंसान बनना जरूरी है, क्योंकि अच्छाई ही इंसान की सबसे बड़ी पहचान होती है।",
       "author": "स्वामी विवेकानंद",
       "banner_url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
-      "date": "2026-03-01",
+      "date": "2026-03-26",
       "category": "प्रेरणा",
       "language": "hi"
     },
