@@ -1,6 +1,24 @@
 {
   "quotes": [
     {
+  "id": "en_quote_260627",
+  "text": "Success is not measured by what you achieve, but by the obstacles you overcome along the way.",
+  "author": "A. P. J. Abdul Kalam",
+  "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+  "date": "2026-06-27",
+  "category": "Life",
+  "language": "en"
+},
+    {
+  "id": "en_quote_260626",
+  "text": "The mind is everything. What you think you become.",
+  "author": "Gautama Buddha",
+  "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+  "date": "2026-06-26",
+  "category": "Spiritual",
+  "language": "en"
+},
+    {
       "id": "en_quote_260625",
       "text": "Do not be afraid of difficulties — they come only to test your strength. Learn to rise, not bow.",
       "author": "Harivansh Rai Bachchan",
