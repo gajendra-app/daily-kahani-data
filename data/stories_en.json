@@ -1,102 +1,141 @@
 {
   "stories": [
     {
-  "id": "en_story_260630",
-  "title": "The Unspoken Promise",
-  "category": "Emotional",
-  "banner_urls": [
-    "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=800&q=80",
-    "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80"
-  ],
-  "date": "2026-06-30",
-  "read_time": 7,
-  "tags": [
-    "family",
-    "sacrifice",
-    "love"
-  ],
-  "language": "en",
-  "content": "Siddharth had always shared a complicated relationship with his father. To him, his father was a man of few words, strict rules, and seemingly no emotion. While his friends' fathers praised them openly, Siddharth only received a quiet nod.\n\nWhen Siddharth moved away to pursue his dream of becoming a photographer, his father didn't object, but he didn't cheer either. He simply handed him an envelope with his savings and walked away.\n\nYears went by. Siddharth became successful. His photographs were featured in major galleries. Yet, a part of him still carried the silent resentment of never being 'good enough' for his father.\n\nOne winter evening, Siddharth received a phone call from his sister. Their father had passed away peacefully in his sleep.\n\nReturning to his childhood home felt heavy. The house was quiet, filled with the lingering scent of old books and his father's aftershave. While packing up his father's old wooden desk, Siddharth found a heavy metal key hidden under the drawer.\n\nIt opened a large, locked trunk in the corner of the room.\n\nExpecting to find old property papers, Siddharth opened it. Instead, his breath caught in his throat.\n\nThe trunk was filled with hundreds of newspaper clippings, magazine cutouts, and printed articles—every single piece of work Siddharth had ever published. There were even blurry printouts of his social media posts.\n\nAt the very bottom of the stack lay an old leather journal. Siddharth opened it to the first page. In his father’s shaky handwriting, it read:\n\n\"My son sees the world with so much beauty. I may not know how to tell him how proud I am, but I will make sure his journey is never forgotten.\"\n\nTears welled up in Siddharth's eyes and finally blurred his vision. He realized that love doesn't always speak in loud praises or grand gestures.\n\nSometimes, the deepest love is entirely silent.\n\nIt is an unspoken promise that watches over you from the shadows, celebrating your victories when you aren't looking."
-},
+      "id": "en_story_260702",
+      "title": "Wings of Courage: The Higher Flight",
+      "category": "Motivation",
+      "banner_urls": [
+        "[https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80](https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80)",
+        "[https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80)",
+        "[https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80](https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80)"
+      ],
+      "date": "2026-07-02",
+      "read_time": 5,
+      "tags": [
+        "courage",
+        "dreams",
+        "success"
+      ],
+      "language": "en",
+      "content": "Topping the university was just the first milestone. Soon, Arjun secured a prestigious scholarship to pursue research abroad. The day before his flight, he returned to his village. The very villagers who once mocked his ambitions now lined up to greet him with garlands, but Arjun walked straight to his mother and knelt down to touch her feet.\n\nShe looked at him with tearful eyes and said, "You have climbed the mountain, Arjun. But remember, the view from the top is not to show yourself to the world, but to see the world and help those still climbing."\n\nArjun carried those words across the ocean. In the foreign university, the challenges were completely different—advanced technology he had never seen, language barriers, and intense isolation. There were nights when the imposter syndrome crept in, whispering that a poor boy from a remote village didn"t belong in these grand laboratories.\n\nWhenever doubt clouded his mind, Arjun would look at the old, stained oil lamp he had packed from home. It reminded him of the dark nights in the village fields and the promise he made to his mother"s sacrifices.\n\nFive years later, Arjun developed a low-cost, solar-powered irrigation system designed specifically for small-scale farmers. His innovation won a global award, bringing millions in funding. Instead of taking a lucrative corporate job in the city, Arjun channeled the resources back to his roots, building a modern technical school in his village.\n\nTrue success is never just about escaping your past; it is about returning with the power to change the future for others who are still waiting for their wings."
+    },
     {
-  "id": "en_story_260629",
-  "title": "The Price of Wisdom",
-  "category": "Folklore",
-  "banner_urls": [
-    "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?w=800&q=80",
-    "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=800&q=80",
-    "https://images.unsplash.com/photo-1519074069444-1ba4fff16411?w=800&q=80"
-  ],
-  "date": "2026-06-29",
-  "read_time": 5,
-  "tags": [
-    "wisdom",
-    "justice",
-    "cleverness"
-  ],
-  "language": "en",
-  "content": "A wealthy merchant once lost a precious bag containing a hundred gold coins. Desperate, he announced a reward across the town, \"Whoever finds my bag shall receive ten gold coins as a reward.\"\n\nA poor old woodcutter found the bag in the forest and brought it straight to the merchant. The merchant, filled with greed upon seeing his gold safe, decided to cheat the honest old man. He counted the money and said, \"Ah! You have already taken your reward. There were a hundred and ten coins in this bag, and now there are only a hundred.\"\n\nThe woodcutter felt deeply insulted and insisted he hadn't touched a single coin. They took their dispute to the village judge, who was known far and wide for his sharp wit.\n\nThe judge listened carefully to both sides. He asked the merchant, \"Are you absolutely certain your bag contained a hundred and ten gold coins?\" The merchant lied, \"Yes, Your Honor.\"\n\nThe judge then turned to the woodcutter, \"And you found a bag with exactly a hundred coins?\" The woodcutter nodded truthfully. \n\nWith a calm smile, the judge delivered his verdict: \"Since this bag has only a hundred coins, it cannot belong to the merchant who lost a hundred and ten. Therefore, woodcutter, you may keep this bag until the rightful owner claims it. As for you, merchant, you must wait until someone finds your bag with a hundred and ten coins.\"\n\nGreed always blinds a person to reality, whereas honesty and justice will always find a way to clear the path."
-},
+      "id": "en_story_260701",
+      "title": "The Last Sketch: Beyond the Canvas",
+      "category": "Love",
+      "banner_urls": [
+        "[https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&q=80](https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&q=80)",
+        "[https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800&q=80](https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800&q=80)",
+        "[https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80](https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80)"
+      ],
+      "date": "2026-07-01",
+      "read_time": 5,
+      "tags": [
+        "love",
+        "art",
+        "destiny"
+      ],
+      "language": "en",
+      "content": "Hearing Diya"s voice, Aarav"s charcoal pencil froze in his hand. A whole year of waiting, that rainy evening, the red scarf, and the same familiar face—everything flashed before his eyes in a single moment.\n\nWith trembling hands, he pulled out the slightly creased sketch and the carefully preserved red scarf from his bag. As he handed the portrait over, Diya’s eyes welled up with tears. In response, she opened her own fresh sketch pad. On its first page was a drawing of a young street artist, holding a small umbrella under a tree, passionately capturing a stranger"s face on paper. It was Aarav.\n\n"You weren"t the only one waiting, Aarav,
+      " Diya smiled softly. "For the past year, I came to this lake every single day just trying to build up the courage to talk to you. I thought you might have forgotten me."\n\nAarav smiled back, "Artists might forget faces, Diya, but never their muse."\n\nAfter that evening, that spot by the city lake wasn"t just a solitary workspace anymore. Now, two canvases stood side by side. Aarav continued to sketch the deep emotions hidden behind strangers" faces, while Diya used her paintbrushes to fill those sketches with vibrant, living colors. A life that was once monochrome and quiet had blossomed into a beautiful celebration of art and togetherness.\n\nYears later, a grand joint exhibition was held at the city"s largest art gallery, titled "When the Unfinished Rain Concluded." At the very center of the gallery hung two pieces side by side. One was Aarav’s first black-and-white sketch of Diya, still bearing the faint marks of dried raindrops. The other was Diya’s vibrant, colorful painting of Aarav, capturing him smiling with absolute happiness.\n\nSome stories are not meant to be completed at first sight; they require time to find their true colors. Destiny only brings two paths together, but turning that meeting into a lasting masterpiece relies entirely on patience, trust, and love."
+    },
     {
-  "id": "en_story_260628",
-  "title": "The Last Sketch",
-  "category": "Love",
-  "banner_urls": [
-    "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&q=80",
-    "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800&q=80",
-    "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80"
-  ],
-  "date": "2026-06-28",
-  "read_time": 5,
-  "tags": [
-    "love",
-    "art",
-    "destiny"
-  ],
-  "language": "en",
-  "content": "Aarav was a street artist who spent his days sketching portraits of strangers by the city lake. His canvas was his diary, capturing thousands of emotions, but his own life remained quiet and monochrome.\n\nOne rainy evening, a girl named Diya took shelter under his small umbrella. As the rain poured, Aarav looked at her and his fingers moved instinctively on the paper. Within minutes, he captured her laughing eyes and the stray raindrops on her hair. Before he could hand it over, the rain stopped, her bus arrived, and she rushed away, leaving her scarf behind.\n\nFor a whole year, Aarav sat by the same spot every single day. He didn't sell that sketch. He kept it in his bag, along with the red scarf, waiting for the face that had brought color to his art.\n\nExactly a year later, on another rainy evening, a shadow fell over his canvas. He looked up to see Diya holding a fresh sketch pad, smiling warmly. \"You forgot to give me my portrait last year,\" she whispered, pointing to the scarf peeking out of his bag.\n\nTrue love doesn't demand rushed timelines; it simply waits for the perfect moment when two separate paths are ready to merge into one beautiful masterpiece."
-},
+      "id": "en_story_260630",
+      "title": "The Unspoken Promise",
+      "category": "Emotional",
+      "banner_urls": [
+        "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+        "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=800&q=80",
+        "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+        "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80"
+      ],
+      "date": "2026-06-30",
+      "read_time": 7,
+      "tags": [
+        "family",
+        "sacrifice",
+        "love"
+      ],
+      "language": "en",
+      "content": "Siddharth had always shared a complicated relationship with his father. To him, his father was a man of few words, strict rules, and seemingly no emotion. While his friends" fathers praised them openly, Siddharth only received a quiet nod.\n\nWhen Siddharth moved away to pursue his dream of becoming a photographer, his father didn"t object, but he didn"t cheer either. He simply handed him an envelope with his savings and walked away.\n\nYears went by. Siddharth became successful. His photographs were featured in major galleries. Yet, a part of him still carried the silent resentment of never being "good enough" for his father.\n\nOne winter evening, Siddharth received a phone call from his sister. Their father had passed away peacefully in his sleep.\n\nReturning to his childhood home felt heavy. The house was quiet, filled with the lingering scent of old books and his father"s aftershave. While packing up his father"s old wooden desk, Siddharth found a heavy metal key hidden under the drawer.\n\nIt opened a large, locked trunk in the corner of the room.\n\nExpecting to find old property papers, Siddharth opened it. Instead, his breath caught in his throat.\n\nThe trunk was filled with hundreds of newspaper clippings, magazine cutouts, and printed articles—every single piece of work Siddharth had ever published. There were even blurry printouts of his social media posts.\n\nAt the very bottom of the stack lay an old leather journal. Siddharth opened it to the first page. In his father’s shaky handwriting, it read:\n\n\"My son sees the world with so much beauty. I may not know how to tell him how proud I am, but I will make sure his journey is never forgotten.\"\n\nTears welled up in Siddharth"s eyes and finally blurred his vision. He realized that love doesn"t always speak in loud praises or grand gestures.\n\nSometimes, the deepest love is entirely silent.\n\nIt is an unspoken promise that watches over you from the shadows, celebrating your victories when you aren"t looking."
+    },
     {
-  "id": "en_story_260627",
-  "title": "The Silent Melody",
-  "category": "Motivation",
-  "banner_urls": [
-    "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=800&q=80",
-    "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
-    "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=800&q=80"
-  ],
-  "date": "2026-06-27",
-  "read_time": 5,
-  "tags": [
-    "persistence",
-    "music",
-    "inspiration"
-  ],
-  "language": "en",
-  "content": "Meera loved the piano more than anything in the world. She would spend hours at her old, out-of-tune piano, letting her fingers weave beautiful stories through notes. Music was her language, her sanctuary.\n\nAt the age of sixteen, a terrible illness took away her hearing. The world fell completely silent. The doctor whispered to her parents, \"She will never be able to play music again.\" It felt like the sudden end to her beautiful story.\n\nFor months, Meera sat by her piano without touching a single key. One afternoon, her grandfather walked into the room, took her hand, and placed it firmly against the wooden body of the piano. He struck a deep bass note. Meera felt a powerful vibration ripple through her palm and up her arm.\n\nShe looked up, a spark of understanding in her eyes. She didn't need to hear the sound; she just needed to feel it. Meera began to practice again, tuning her mind to the vibrations of the wooden frame and the rhythmic movement of the keys.\n\nTwo years later, she stood on the stage of the National Concert Hall. The audience watched in awe as a deaf girl played a masterpiece with absolute perfection and profound emotion. When she finished, the hall erupted in an ovation she couldn't hear, but a standing applause she could deeply feel.\n\nTrue limitations exist only within our minds; when you look past them, your spirit will always find a way to express itself."
-},
+      "id": "en_story_260629",
+      "title": "The Price of Wisdom",
+      "category": "Folklore",
+      "banner_urls": [
+        "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?w=800&q=80",
+        "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=800&q=80",
+        "https://images.unsplash.com/photo-1519074069444-1ba4fff16411?w=800&q=80"
+      ],
+      "date": "2026-06-29",
+      "read_time": 5,
+      "tags": [
+        "wisdom",
+        "justice",
+        "cleverness"
+      ],
+      "language": "en",
+      "content": "A wealthy merchant once lost a precious bag containing a hundred gold coins. Desperate, he announced a reward across the town, \"Whoever finds my bag shall receive ten gold coins as a reward.\"\n\nA poor old woodcutter found the bag in the forest and brought it straight to the merchant. The merchant, filled with greed upon seeing his gold safe, decided to cheat the honest old man. He counted the money and said, \"Ah! You have already taken your reward. There were a hundred and ten coins in this bag, and now there are only a hundred.\"\n\nThe woodcutter felt deeply insulted and insisted he hadn"t touched a single coin. They took their dispute to the village judge, who was known far and wide for his sharp wit.\n\nThe judge listened carefully to both sides. He asked the merchant, \"Are you absolutely certain your bag contained a hundred and ten gold coins?\" The merchant lied, \"Yes, Your Honor.\"\n\nThe judge then turned to the woodcutter, \"And you found a bag with exactly a hundred coins?\" The woodcutter nodded truthfully. \n\nWith a calm smile, the judge delivered his verdict: \"Since this bag has only a hundred coins, it cannot belong to the merchant who lost a hundred and ten. Therefore, woodcutter, you may keep this bag until the rightful owner claims it. As for you, merchant, you must wait until someone finds your bag with a hundred and ten coins.\"\n\nGreed always blinds a person to reality, whereas honesty and justice will always find a way to clear the path."
+    },
     {
-  "id": "en_story_260626",
-  "title": "The Coffee Shop Promise",
-  "category": "Love",
-  "banner_urls": [
-    "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
-    "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=80",
-    "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&q=80"
-  ],
-  "date": "2026-06-26",
-  "read_time": 5,
-  "tags": [
-    "love",
-    "coffee",
-    "friendship",
-    "promise"
-  ],
-  "language": "en",
-  "content": "Every evening after work, Maya stopped by a small coffee shop near the city park. It wasn't the coffee that brought her there every day — it was the peaceful corner table beside the window.\n\nOne rainy evening, all the tables were occupied except for Maya's. A young man carrying a laptop approached her and asked politely, \"Would you mind if I shared the table?\"\n\nMaya nodded with a smile.\n\nThe stranger introduced himself as Arjun. What started as a simple conversation about the rain soon turned into a discussion about travel, dreams, and life.\n\nOver the next few weeks, they kept meeting by chance. Sometimes they talked for hours. Other times they simply sat together, working quietly while enjoying their coffee.\n\nOne day, Arjun arrived looking worried. He had received a job offer in another city and wasn't sure whether to accept it.\n\n\"What does your heart say?\" Maya asked.\n\nArjun smiled. \"It says I don't want to leave this city.\"\n\nMaya laughed softly. \"That's not a reason.\"\n\n\"Maybe it is,\" he replied.\n\nA week later, Arjun accepted the job and prepared to leave. Before going, he handed Maya a small notebook.\n\nInside the first page, he had written:\n\n\"Some people enter our lives unexpectedly and leave a permanent mark. Thank you for every conversation, every coffee, and every smile.\"\n\nMaya closed the notebook and looked up.\n\n\"Will we meet again?\" she asked.\n\nArjun pointed to the last page.\n\nThere, he had written a promise:\n\n\"Same coffee shop. Same table. One year from today.\"\n\nExactly one year later, Maya walked into the coffee shop.\n\nArjun was already sitting at their table, holding two cups of coffee.\n\nSome promises are written on paper.\n\nThe most beautiful ones are written in the heart."
-},
+      "id": "en_story_260628",
+      "title": "The Last Sketch",
+      "category": "Love",
+      "banner_urls": [
+        "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&q=80",
+        "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800&q=80",
+        "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80"
+      ],
+      "date": "2026-06-28",
+      "read_time": 5,
+      "tags": [
+        "love",
+        "art",
+        "destiny"
+      ],
+      "language": "en",
+      "content": "Aarav was a street artist who spent his days sketching portraits of strangers by the city lake. His canvas was his diary, capturing thousands of emotions, but his own life remained quiet and monochrome.\n\nOne rainy evening, a girl named Diya took shelter under his small umbrella. As the rain poured, Aarav looked at her and his fingers moved instinctively on the paper. Within minutes, he captured her laughing eyes and the stray raindrops on her hair. Before he could hand it over, the rain stopped, her bus arrived, and she rushed away, leaving her scarf behind.\n\nFor a whole year, Aarav sat by the same spot every single day. He didn"t sell that sketch. He kept it in his bag, along with the red scarf, waiting for the face that had brought color to his art.\n\nExactly a year later, on another rainy evening, a shadow fell over his canvas. He looked up to see Diya holding a fresh sketch pad, smiling warmly. \"You forgot to give me my portrait last year,\" she whispered, pointing to the scarf peeking out of his bag.\n\nTrue love doesn"t demand rushed timelines; it simply waits for the perfect moment when two separate paths are ready to merge into one beautiful masterpiece."
+    },
+    {
+      "id": "en_story_260627",
+      "title": "The Silent Melody",
+      "category": "Motivation",
+      "banner_urls": [
+        "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=800&q=80",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+        "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=800&q=80"
+      ],
+      "date": "2026-06-27",
+      "read_time": 5,
+      "tags": [
+        "persistence",
+        "music",
+        "inspiration"
+      ],
+      "language": "en",
+      "content": "Meera loved the piano more than anything in the world. She would spend hours at her old, out-of-tune piano, letting her fingers weave beautiful stories through notes. Music was her language, her sanctuary.\n\nAt the age of sixteen, a terrible illness took away her hearing. The world fell completely silent. The doctor whispered to her parents, \"She will never be able to play music again.\" It felt like the sudden end to her beautiful story.\n\nFor months, Meera sat by her piano without touching a single key. One afternoon, her grandfather walked into the room, took her hand, and placed it firmly against the wooden body of the piano. He struck a deep bass note. Meera felt a powerful vibration ripple through her palm and up her arm.\n\nShe looked up, a spark of understanding in her eyes. She didn"t need to hear the sound; she just needed to feel it. Meera began to practice again, tuning her mind to the vibrations of the wooden frame and the rhythmic movement of the keys.\n\nTwo years later, she stood on the stage of the National Concert Hall. The audience watched in awe as a deaf girl played a masterpiece with absolute perfection and profound emotion. When she finished, the hall erupted in an ovation she couldn"t hear, but a standing applause she could deeply feel.\n\nTrue limitations exist only within our minds; when you look past them, your spirit will always find a way to express itself."
+    },
+    {
+      "id": "en_story_260626",
+      "title": "The Coffee Shop Promise",
+      "category": "Love",
+      "banner_urls": [
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+        "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=80",
+        "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&q=80"
+      ],
+      "date": "2026-06-26",
+      "read_time": 5,
+      "tags": [
+        "love",
+        "coffee",
+        "friendship",
+        "promise"
+      ],
+      "language": "en",
+      "content": "Every evening after work, Maya stopped by a small coffee shop near the city park. It wasn"t the coffee that brought her there every day — it was the peaceful corner table beside the window.\n\nOne rainy evening, all the tables were occupied except for Maya"s. A young man carrying a laptop approached her and asked politely, \"Would you mind if I shared the table?\"\n\nMaya nodded with a smile.\n\nThe stranger introduced himself as Arjun. What started as a simple conversation about the rain soon turned into a discussion about travel, dreams, and life.\n\nOver the next few weeks, they kept meeting by chance. Sometimes they talked for hours. Other times they simply sat together, working quietly while enjoying their coffee.\n\nOne day, Arjun arrived looking worried. He had received a job offer in another city and wasn"t sure whether to accept it.\n\n\"What does your heart say?\" Maya asked.\n\nArjun smiled. \"It says I don"t want to leave this city.\"\n\nMaya laughed softly. \"That"s not a reason.\"\n\n\"Maybe it is,\" he replied.\n\nA week later, Arjun accepted the job and prepared to leave. Before going, he handed Maya a small notebook.\n\nInside the first page, he had written:\n\n\"Some people enter our lives unexpectedly and leave a permanent mark. Thank you for every conversation, every coffee, and every smile.\"\n\nMaya closed the notebook and looked up.\n\n\"Will we meet again?\" she asked.\n\nArjun pointed to the last page.\n\nThere, he had written a promise:\n\n\"Same coffee shop. Same table. One year from today.\"\n\nExactly one year later, Maya walked into the coffee shop.\n\nArjun was already sitting at their table, holding two cups of coffee.\n\nSome promises are written on paper.\n\nThe most beautiful ones are written in the heart."
+    },
     {
       "id": "en_story_260625",
       "title": "Footprints in the Dust",
@@ -114,7 +153,7 @@
         "success"
       ],
       "language": "en",
-      "content": "Rahul grew up in a small desert town where opportunities were as rare as rain. His father worked as a daily laborer, and his mother stitched clothes for neighbors to support the family. Life was simple, and sometimes painfully difficult.\n\nYet Rahul carried a dream that seemed far bigger than his surroundings. He wanted to become an engineer and build machines that could help farmers in villages like his.\n\nEvery day, Rahul walked nearly six kilometers to school. The dusty road was long and tiring, especially under the burning sun. But Rahul never complained. Instead, he would imagine that every step he took was bringing him closer to his dream.\n\nAt night, when electricity often failed, Rahul studied under a small kerosene lamp. While other children slept, he solved mathematics problems and read science books borrowed from the school library.\n\nMany people in the village doubted him. \"Dreams don't fill empty stomachs,\" some said. But Rahul's teacher believed in him. One day, the teacher told him, \"Your circumstances do not define your future. Your determination does.\"\n\nRahul held onto those words.\n\nYears passed, and his hard work finally paid off when he earned a scholarship to a reputed engineering college in the city. It was the first time Rahul had ever left his village.\n\nThe city felt overwhelming at first. His classmates seemed smarter, more confident, and far more privileged. But Rahul reminded himself of the long road he had walked every day. If he could cross miles of desert dust, he could cross this challenge too.\n\nSlowly, his dedication began to shine. He spent hours in laboratories, learning how machines worked and how they could be improved.\n\nBy the time he graduated, Rahul had designed a simple, affordable irrigation machine that could help small farmers save water and increase crop yield.\n\nWhen Rahul returned to his village years later, the same dusty road welcomed him again. But this time, the footprints in the dust told a different story — the story of a boy who refused to stop walking toward his dream."
+      "content": "Rahul grew up in a small desert town where opportunities were as rare as rain. His father worked as a daily laborer, and his mother stitched clothes for neighbors to support the family. Life was simple, and sometimes painfully difficult.\n\nYet Rahul carried a dream that seemed far bigger than his surroundings. He wanted to become an engineer and build machines that could help farmers in villages like his.\n\nEvery day, Rahul walked nearly six kilometers to school. The dusty road was long and tiring, especially under the burning sun. But Rahul never complained. Instead, he would imagine that every step he took was bringing him closer to his dream.\n\nAt night, when electricity often failed, Rahul studied under a small kerosene lamp. While other children slept, he solved mathematics problems and read science books borrowed from the school library.\n\nMany people in the village doubted him. \"Dreams don"t fill empty stomachs,\" some said. But Rahul"s teacher believed in him. One day, the teacher told him, \"Your circumstances do not define your future. Your determination does.\"\n\nRahul held onto those words.\n\nYears passed, and his hard work finally paid off when he earned a scholarship to a reputed engineering college in the city. It was the first time Rahul had ever left his village.\n\nThe city felt overwhelming at first. His classmates seemed smarter, more confident, and far more privileged. But Rahul reminded himself of the long road he had walked every day. If he could cross miles of desert dust, he could cross this challenge too.\n\nSlowly, his dedication began to shine. He spent hours in laboratories, learning how machines worked and how they could be improved.\n\nBy the time he graduated, Rahul had designed a simple, affordable irrigation machine that could help small farmers save water and increase crop yield.\n\nWhen Rahul returned to his village years later, the same dusty road welcomed him again. But this time, the footprints in the dust told a different story — the story of a boy who refused to stop walking toward his dream."
     },
     {
       "id": "en_story_260624",
@@ -133,7 +172,7 @@
         "success"
       ],
       "language": "en",
-      "content": "Meera had loved painting since childhood. Colors were her world. Whenever she held a brush, she felt as if the entire universe came alive on the canvas. Her parents, however, often said, \"Painting cannot build a future. Become a doctor or an engineer.\"\n\nBut Meera's heart refused to listen. Her hands felt restless whenever she stayed away from her brush. Every evening after finishing her studies, she would quietly sit near the window and paint the sky, the trees, and the life she saw around her.\n\nOne day, her teacher encouraged her to submit one of her paintings to a citywide art competition. Meera hesitated, but she finally agreed. Weeks later, the results were announced. Her painting had won the first prize.\n\nFor the first time, her parents realized that her passion carried something special. Slowly, people in the town began to notice her talent. Small exhibitions started inviting her artwork.\n\nBut life took a cruel turn one winter evening. While returning from school, Meera met with an accident. Her right hand was badly injured. After surgery, the doctor said softly, \"It may be difficult for her to use this hand like before.\"\n\nThose words shattered her world. For months, Meera avoided her paints and brushes. The room that once smelled of colors became silent.\n\nOne afternoon, her little niece came to visit. The child looked at the empty canvas and asked, \"Why don't you paint anymore?\"\n\nMeera replied sadly, \"Because my hand can't paint now.\"\n\nThe little girl looked out the window and said innocently, \"Have you seen a shooting star? When it breaks, it shines even brighter.\"\n\nThose simple words struck something deep inside Meera's heart. That night, she slowly picked up a brush with her left hand. At first, the lines were shaky and uneven. But she kept trying.\n\nDays turned into months. Practice slowly replaced hesitation. Her left hand learned to move with confidence.\n\nYears later, Meera became a renowned artist. Her exhibitions were displayed not only in her country but also in international galleries.\n\nAnd in every painting she created, there was always a small broken star shining somewhere in the sky — a quiet reminder that sometimes, even broken things can illuminate the world."
+      "content": "Meera had loved painting since childhood. Colors were her world. Whenever she held a brush, she felt as if the entire universe came alive on the canvas. Her parents, however, often said, \"Painting cannot build a future. Become a doctor or an engineer.\"\n\nBut Meera"s heart refused to listen. Her hands felt restless whenever she stayed away from her brush. Every evening after finishing her studies, she would quietly sit near the window and paint the sky, the trees, and the life she saw around her.\n\nOne day, her teacher encouraged her to submit one of her paintings to a citywide art competition. Meera hesitated, but she finally agreed. Weeks later, the results were announced. Her painting had won the first prize.\n\nFor the first time, her parents realized that her passion carried something special. Slowly, people in the town began to notice her talent. Small exhibitions started inviting her artwork.\n\nBut life took a cruel turn one winter evening. While returning from school, Meera met with an accident. Her right hand was badly injured. After surgery, the doctor said softly, \"It may be difficult for her to use this hand like before.\"\n\nThose words shattered her world. For months, Meera avoided her paints and brushes. The room that once smelled of colors became silent.\n\nOne afternoon, her little niece came to visit. The child looked at the empty canvas and asked, \"Why don"t you paint anymore?\"\n\nMeera replied sadly, \"Because my hand can"t paint now.\"\n\nThe little girl looked out the window and said innocently, \"Have you seen a shooting star? When it breaks, it shines even brighter.\"\n\nThose simple words struck something deep inside Meera"s heart. That night, she slowly picked up a brush with her left hand. At first, the lines were shaky and uneven. But she kept trying.\n\nDays turned into months. Practice slowly replaced hesitation. Her left hand learned to move with confidence.\n\nYears later, Meera became a renowned artist. Her exhibitions were displayed not only in her country but also in international galleries.\n\nAnd in every painting she created, there was always a small broken star shining somewhere in the sky — a quiet reminder that sometimes, even broken things can illuminate the world."
     },
     {
       "id": "en_story_260623",
@@ -152,7 +191,7 @@
         "hardwork"
       ],
       "language": "en",
-      "content": "In a small village, there lived a boy named Arjun. His home had neither wealth nor comfort, yet his eyes held a strange brilliance — the brilliance of dreams.\n\nThe villagers would say, \"Arjun, don't dream so big. You are a poor man's son.\" But his mother told him every night, \"Son, as long as you have dreams, you have a reason to live.\"\n\nArjun threw himself into his studies. He read by lamplight at night, and along the ridges of the fields by day. Years passed, and hard work began to bear fruit. One day, he earned admission to the city's most prestigious college.\n\nIn the city, he saw students far ahead of him — expensive books, fine clothes, and a certain arrogance on their faces. But Arjun did not lose heart. He worked through the nights and studied through the days.\n\nWhen the results came three years later, Arjun's name stood at the very top of the list. That day, he called his mother and said, \"Mother, your dreams have come true.\"\n\nThe greatest price of success is this — believing in your dreams, even when the whole world says you cannot."
+      "content": "In a small village, there lived a boy named Arjun. His home had neither wealth nor comfort, yet his eyes held a strange brilliance — the brilliance of dreams.\n\nThe villagers would say, \"Arjun, don"t dream so big. You are a poor man"s son.\" But his mother told him every night, \"Son, as long as you have dreams, you have a reason to live.\"\n\nArjun threw himself into his studies. He read by lamplight at night, and along the ridges of the fields by day. Years passed, and hard work began to bear fruit. One day, he earned admission to the city"s most prestigious college.\n\nIn the city, he saw students far ahead of him — expensive books, fine clothes, and a certain arrogance on their faces. But Arjun did not lose heart. He worked through the nights and studied through the days.\n\nWhen the results came three years later, Arjun"s name stood at the very top of the list. That day, he called his mother and said, \"Mother, your dreams have come true.\"\n\nThe greatest price of success is this — believing in your dreams, even when the whole world says you cannot."
     },
     {
       "id": "en_story_260622",
@@ -170,7 +209,7 @@
         "growth"
       ],
       "language": "en",
-      "content": "Ravi grew up in a small town where opportunities were rare. Ever since childhood, he dreamed of building machines that could help farmers work faster and easier.\n\nBut life had different plans. After finishing school, Ravi failed several entrance exams for engineering colleges. Each failure felt heavier than the last, and many people in the village began to say, \"Maybe this dream was never meant for you.\"\n\nDisappointed but not defeated, Ravi started repairing small machines in a tiny shop near the market. Day after day, he studied broken engines and old tools, learning how each piece worked.\n\nOne evening during the rainy season, Ravi watched a small seed pushing through a crack in the road. Despite the hard concrete above it, the tiny plant kept growing toward the light.\n\nThat moment changed something inside him. Ravi realized that growth does not wait for perfect conditions.\n\nSlowly, using scrap parts and old tools, he built a simple low-cost farming machine that could help small farmers plough their land faster.\n\nAt first, only a few farmers trusted his invention. But when they saw the results, word spread quickly.\n\nToday, Ravi's machines are used in many nearby villages, helping hundreds of farmers save time and effort.\n\nWhenever someone asks him how he kept going despite failure, Ravi simply smiles and says, \"Even the smallest seed can break through stone if it refuses to stop growing.\""
+      "content": "Ravi grew up in a small town where opportunities were rare. Ever since childhood, he dreamed of building machines that could help farmers work faster and easier.\n\nBut life had different plans. After finishing school, Ravi failed several entrance exams for engineering colleges. Each failure felt heavier than the last, and many people in the village began to say, \"Maybe this dream was never meant for you.\"\n\nDisappointed but not defeated, Ravi started repairing small machines in a tiny shop near the market. Day after day, he studied broken engines and old tools, learning how each piece worked.\n\nOne evening during the rainy season, Ravi watched a small seed pushing through a crack in the road. Despite the hard concrete above it, the tiny plant kept growing toward the light.\n\nThat moment changed something inside him. Ravi realized that growth does not wait for perfect conditions.\n\nSlowly, using scrap parts and old tools, he built a simple low-cost farming machine that could help small farmers plough their land faster.\n\nAt first, only a few farmers trusted his invention. But when they saw the results, word spread quickly.\n\nToday, Ravi"s machines are used in many nearby villages, helping hundreds of farmers save time and effort.\n\nWhenever someone asks him how he kept going despite failure, Ravi simply smiles and says, \"Even the smallest seed can break through stone if it refuses to stop growing.\""
     },
     {
       "id": "en_story_260621",
@@ -189,7 +228,7 @@
         "meeting"
       ],
       "language": "en",
-      "content": "Kavita had an obsession with reading. Every Saturday, she would spend hours at that little bookstore in the old bazaar. The shopkeeper, Ram Deen Kaka, knew her well — \"Child, which world are you visiting today?\"\n\nOne Saturday, Kavita picked up an old book — 'When the River Stopped'. Its pages had yellowed, but someone had written in pencil throughout. Small notes, as if a reader were having a conversation with the book.\n\n\"No, this is wrong — a river never stops.\"\n\nKavita bought that book. The following week, she returned asking for another book by the same author. Ram Deen Kaka said, \"That book has been reserved by the very boy who wrote in the previous one.\"\n\nKaka called that boy — Vikas. The two met at the same shop. The first question was, \"Does a river really stop?\" They talked for hours. A conversation that began with books reached the heart.\n\nToday, that old book sits at the top of both their shelves — their story, their first journey together."
+      "content": "Kavita had an obsession with reading. Every Saturday, she would spend hours at that little bookstore in the old bazaar. The shopkeeper, Ram Deen Kaka, knew her well — \"Child, which world are you visiting today?\"\n\nOne Saturday, Kavita picked up an old book — "When the River Stopped". Its pages had yellowed, but someone had written in pencil throughout. Small notes, as if a reader were having a conversation with the book.\n\n\"No, this is wrong — a river never stops.\"\n\nKavita bought that book. The following week, she returned asking for another book by the same author. Ram Deen Kaka said, \"That book has been reserved by the very boy who wrote in the previous one.\"\n\nKaka called that boy — Vikas. The two met at the same shop. The first question was, \"Does a river really stop?\" They talked for hours. A conversation that began with books reached the heart.\n\nToday, that old book sits at the top of both their shelves — their story, their first journey together."
     },
     {
       "id": "en_story_260620",
@@ -207,7 +246,7 @@
         "distance"
       ],
       "language": "en",
-      "content": "Rohan and Priya's love lived in letters. When Rohan enlisted in the army, Priya said, \"I will send one letter every month.\" Rohan said, \"And I will reply to every one.\"\n\nIn the first month, both letters arrived on the same day. The second month, Rohan's letter was three days late. The third month — no letter at all.\n\nPriya grew anxious. People said, \"Forget him. Soldiers who leave rarely return.\" But Priya never stopped writing.\n\nSix months later, three letters arrived at once. Rohan had written — \"There was so much work at the border that I had no time to write. But I kept every one of your letters close to my heart.\"\n\nWhen Rohan came home, Priya asked, \"Were you not afraid?\" Rohan said, \"How can someone who has someone waiting for them be afraid?\"\n\nLove is not always being side by side. Love is staying close even across distance."
+      "content": "Rohan and Priya"s love lived in letters. When Rohan enlisted in the army, Priya said, \"I will send one letter every month.\" Rohan said, \"And I will reply to every one.\"\n\nIn the first month, both letters arrived on the same day. The second month, Rohan"s letter was three days late. The third month — no letter at all.\n\nPriya grew anxious. People said, \"Forget him. Soldiers who leave rarely return.\" But Priya never stopped writing.\n\nSix months later, three letters arrived at once. Rohan had written — \"There was so much work at the border that I had no time to write. But I kept every one of your letters close to my heart.\"\n\nWhen Rohan came home, Priya asked, \"Were you not afraid?\" Rohan said, \"How can someone who has someone waiting for them be afraid?\"\n\nLove is not always being side by side. Love is staying close even across distance."
     },
     {
       "id": "en_story_260619",
@@ -227,7 +266,7 @@
         "fear"
       ],
       "language": "en",
-      "content": "Naveen was alone that night. The old bungalow he had inherited sat on a hilltop far from the city. The villagers would say, \"Don't stay there after dark.\" Naveen had laughed it off.\n\nAt two in the morning, he woke up. Footsteps were coming from the floor above. He got up, took a torch, and went upstairs.\n\nThe room was empty. But in the dust there were footprints — small feet, a child's feet.\n\nNaveen remembered — in the old papers of the bungalow, there was mention of a child who had lived there years ago and one day vanished.\n\nHe asked the oldest man in the village, who told him that the child had been hidden away by relatives greedy for land. The child had always played in that very room upstairs.\n\nNaveen found an old safe hidden in the wall of the room. Inside were the child's toys and a letter, in which the child had written the feelings of his heart.\n\nNaveen decorated that room in memory of the child. After that night, no sound was ever heard in the bungalow again."
+      "content": "Naveen was alone that night. The old bungalow he had inherited sat on a hilltop far from the city. The villagers would say, \"Don"t stay there after dark.\" Naveen had laughed it off.\n\nAt two in the morning, he woke up. Footsteps were coming from the floor above. He got up, took a torch, and went upstairs.\n\nThe room was empty. But in the dust there were footprints — small feet, a child"s feet.\n\nNaveen remembered — in the old papers of the bungalow, there was mention of a child who had lived there years ago and one day vanished.\n\nHe asked the oldest man in the village, who told him that the child had been hidden away by relatives greedy for land. The child had always played in that very room upstairs.\n\nNaveen found an old safe hidden in the wall of the room. Inside were the child"s toys and a letter, in which the child had written the feelings of his heart.\n\nNaveen decorated that room in memory of the child. After that night, no sound was ever heard in the bungalow again."
     },
     {
       "id": "en_story_260618",
@@ -246,7 +285,7 @@
         "victory"
       ],
       "language": "en",
-      "content": "Kavya had been afraid of mountains since childhood. Once during a trek, her foot had slipped and she had hung from a cliff. That day she vowed — she would never go near mountains again.\n\nSeven years later, her younger brother Vihan resolved to climb a Himalayan peak. He insisted Kavya join his team — \"Didi, if you don't come, neither will I.\"\n\nOn the first day, seeing the mountains up close, Kavya's heart thudded. But the excitement in Vihan's eyes would not let her stop.\n\nOn the fourth day, a narrow path appeared. Kavya's feet stopped. The guide Suresh said, \"Ma'am, walk with your fear — just don't stop.\"\n\nKavya closed her eyes. Took a breath. And walked on.\n\nWhen they reached the summit, there were clouds below and sun above. Tears streamed down Kavya's face. Vihan asked, \"Tears of joy?\" Kavya said, \"Of freedom.\"\n\nThere is only one way to defeat fear — to keep moving forward in spite of it."
+      "content": "Kavya had been afraid of mountains since childhood. Once during a trek, her foot had slipped and she had hung from a cliff. That day she vowed — she would never go near mountains again.\n\nSeven years later, her younger brother Vihan resolved to climb a Himalayan peak. He insisted Kavya join his team — \"Didi, if you don"t come, neither will I.\"\n\nOn the first day, seeing the mountains up close, Kavya"s heart thudded. But the excitement in Vihan"s eyes would not let her stop.\n\nOn the fourth day, a narrow path appeared. Kavya"s feet stopped. The guide Suresh said, \"Ma"am, walk with your fear — just don"t stop.\"\n\nKavya closed her eyes. Took a breath. And walked on.\n\nWhen they reached the summit, there were clouds below and sun above. Tears streamed down Kavya"s face. Vihan asked, \"Tears of joy?\" Kavya said, \"Of freedom.\"\n\nThere is only one way to defeat fear — to keep moving forward in spite of it."
     },
     {
       "id": "en_story_260617",
@@ -264,7 +303,7 @@
         "life"
       ],
       "language": "en",
-      "content": "Akash had returned to his old hometown after twenty years. A lifetime had passed since he'd gone to Delhi for work. After his mother passed, the house had been locked up.\n\nHe entered the old lane. Some things had changed; some had not. The tea stall was the same, only the owner had changed. That banyan tree still stood — the one on which he had first carved his name.\n\nAn elderly woman saw him and recognised him at once — \"Why, you're Akash! Rama's son?\" Akash's eyes filled with tears.\n\nShe gave him tea and shared old stories — about his mother, about the mischief of his childhood.\n\nIn the evening, he went to his mother's grave. He said, \"Mother, I'm here.\" He sat there for a long time.\n\nOn his way back, he put the house key in his pocket. He decided — he would not sell this house. It holds his mother's memories, and memories are the true treasure of life."
+      "content": "Akash had returned to his old hometown after twenty years. A lifetime had passed since he"d gone to Delhi for work. After his mother passed, the house had been locked up.\n\nHe entered the old lane. Some things had changed; some had not. The tea stall was the same, only the owner had changed. That banyan tree still stood — the one on which he had first carved his name.\n\nAn elderly woman saw him and recognised him at once — \"Why, you"re Akash! Rama"s son?\" Akash"s eyes filled with tears.\n\nShe gave him tea and shared old stories — about his mother, about the mischief of his childhood.\n\nIn the evening, he went to his mother"s grave. He said, \"Mother, I"m here.\" He sat there for a long time.\n\nOn his way back, he put the house key in his pocket. He decided — he would not sell this house. It holds his mother"s memories, and memories are the true treasure of life."
     },
     {
       "id": "en_story_260616",
@@ -283,7 +322,7 @@
         "farmer"
       ],
       "language": "en",
-      "content": "Long, long ago, there was a just king in a kingdom. He devised an unusual test. He gave seeds to all the young men of the kingdom and said, \"A year from now, whoever brings the finest plant shall be my heir.\"\n\nAmong them was Gopal, the son of a farmer. He planted his seed with great care. He watered it, he nourished it. But as the months passed, nothing grew.\n\nA year later, when all the young men came with baskets overflowing with blossoms and plants, Gopal had only — an empty pot.\n\nEveryone laughed at him. But the king called him forward. \"Why have you brought an empty pot?\" Gopal told the truth — \"My seed did not grow, Your Majesty.\"\n\nThe king smiled. \"Children, I gave all of you boiled seeds — seeds that can never grow. This boy told the truth — that is what I was looking for.\"\n\nGopal was named the king's heir. Honesty is the foundation upon which the greatest kingdoms are built."
+      "content": "Long, long ago, there was a just king in a kingdom. He devised an unusual test. He gave seeds to all the young men of the kingdom and said, \"A year from now, whoever brings the finest plant shall be my heir.\"\n\nAmong them was Gopal, the son of a farmer. He planted his seed with great care. He watered it, he nourished it. But as the months passed, nothing grew.\n\nA year later, when all the young men came with baskets overflowing with blossoms and plants, Gopal had only — an empty pot.\n\nEveryone laughed at him. But the king called him forward. \"Why have you brought an empty pot?\" Gopal told the truth — \"My seed did not grow, Your Majesty.\"\n\nThe king smiled. \"Children, I gave all of you boiled seeds — seeds that can never grow. This boy told the truth — that is what I was looking for.\"\n\nGopal was named the king"s heir. Honesty is the foundation upon which the greatest kingdoms are built."
     },
     {
       "id": "en_story_260615",
@@ -343,7 +382,7 @@
         "emotions"
       ],
       "language": "en",
-      "content": "Rohan had not visited his hometown in almost eight years. Life in the city had consumed him—work deadlines, meetings, and endless responsibilities. Somewhere along the way, he had stopped calling home as often as he used to.\n\nOne evening, while scrolling through old messages, he came across a text from his mother: \"When will you come home, beta?\"\n\nThe message was two years old.\n\nSomething inside him shifted.\n\nWithout overthinking, Rohan booked a ticket for the last train that night.\n\nAs the train slowly pulled out of the crowded station, Rohan leaned back in his seat. The rhythmic sound of the tracks brought back memories—childhood laughter, evening walks, and the comfort of home.\n\nAcross from him sat an elderly man, quietly looking out the window. After a while, the man spoke, \"Going home?\"\n\nRohan nodded.\n\n\"It’s been a long time,\" he replied.\n\nThe old man smiled faintly. \"It’s funny how we always think there’s more time.\"\n\nThose words lingered in the air.\n\nAs the train moved through the night, Rohan found himself unable to sleep. He kept thinking about all the missed calls, all the postponed visits, all the times he had said, 'Next month, for sure.'\n\nThe next morning, the train reached his town.\n\nEverything looked smaller than he remembered—the station, the streets, even the house.\n\nBut the emotions felt bigger.\n\nRohan stood outside his home, his heart racing. He knocked gently.\n\nThe door opened.\n\nHis mother stood there, her eyes widening in surprise. For a moment, neither spoke. Then she smiled—a smile that carried years of waiting.\n\n\"You came,\" she said softly.\n\nRohan couldn’t hold back anymore. He stepped forward and hugged her tightly.\n\n\"I’m sorry,\" he whispered.\n\nShe simply patted his back. \"You’re home. That’s enough.\"\n\nLater that evening, as they sat together, Rohan realized something he had long forgotten.\n\nHome is not just a place.\n\nIt’s where someone waits for you, no matter how late you arrive.\n\nAnd sometimes, all it takes is one journey… to find your way back."
+      "content": "Rohan had not visited his hometown in almost eight years. Life in the city had consumed him—work deadlines, meetings, and endless responsibilities. Somewhere along the way, he had stopped calling home as often as he used to.\n\nOne evening, while scrolling through old messages, he came across a text from his mother: \"When will you come home, beta?\"\n\nThe message was two years old.\n\nSomething inside him shifted.\n\nWithout overthinking, Rohan booked a ticket for the last train that night.\n\nAs the train slowly pulled out of the crowded station, Rohan leaned back in his seat. The rhythmic sound of the tracks brought back memories—childhood laughter, evening walks, and the comfort of home.\n\nAcross from him sat an elderly man, quietly looking out the window. After a while, the man spoke, \"Going home?\"\n\nRohan nodded.\n\n\"It’s been a long time,\" he replied.\n\nThe old man smiled faintly. \"It’s funny how we always think there’s more time.\"\n\nThose words lingered in the air.\n\nAs the train moved through the night, Rohan found himself unable to sleep. He kept thinking about all the missed calls, all the postponed visits, all the times he had said, "Next month, for sure."\n\nThe next morning, the train reached his town.\n\nEverything looked smaller than he remembered—the station, the streets, even the house.\n\nBut the emotions felt bigger.\n\nRohan stood outside his home, his heart racing. He knocked gently.\n\nThe door opened.\n\nHis mother stood there, her eyes widening in surprise. For a moment, neither spoke. Then she smiled—a smile that carried years of waiting.\n\n\"You came,\" she said softly.\n\nRohan couldn’t hold back anymore. He stepped forward and hugged her tightly.\n\n\"I’m sorry,\" he whispered.\n\nShe simply patted his back. \"You’re home. That’s enough.\"\n\nLater that evening, as they sat together, Rohan realized something he had long forgotten.\n\nHome is not just a place.\n\nIt’s where someone waits for you, no matter how late you arrive.\n\nAnd sometimes, all it takes is one journey… to find your way back."
     },
     {
       "id": "en_story_260612",
@@ -421,7 +460,7 @@
         "wisdom"
       ],
       "language": "en",
-      "content": "In a quiet village surrounded by hills, there was a wooden bridge that connected the village to the main road. Every morning, people crossed it on their way to work, school, or the market.\n\nThe bridge was built many years ago by an old carpenter named Dev.\n\nPeople often wondered why the bridge had so many small wooden planks instead of long boards like other bridges. One day, a curious boy named Aman asked Dev, \"Why didn't you build the bridge with big pieces of wood?\"\n\nDev smiled and replied, \"Because life is not built with giant steps. It is built with many small ones.\"\n\nYears passed, and Dev grew old. One monsoon season, a strong storm hit the village. The river below the bridge swelled with powerful currents.\n\nMany villagers feared the bridge would collapse.\n\nBut when the storm ended, they saw something surprising. A few wooden planks had broken, but the bridge itself still stood strong.\n\nThe small planks had protected the structure. Even if one piece broke, the others held the bridge together.\n\nThe villagers repaired the damaged planks easily, and life continued as usual.\n\nFrom that day on, the villagers understood Dev's wisdom.\n\nLife is like that bridge. If everything depends on one big step, a single failure can break it.\n\nBut when life is built with many small efforts, patience, and lessons, it becomes strong enough to survive even the biggest storms."
+      "content": "In a quiet village surrounded by hills, there was a wooden bridge that connected the village to the main road. Every morning, people crossed it on their way to work, school, or the market.\n\nThe bridge was built many years ago by an old carpenter named Dev.\n\nPeople often wondered why the bridge had so many small wooden planks instead of long boards like other bridges. One day, a curious boy named Aman asked Dev, \"Why didn"t you build the bridge with big pieces of wood?\"\n\nDev smiled and replied, \"Because life is not built with giant steps. It is built with many small ones.\"\n\nYears passed, and Dev grew old. One monsoon season, a strong storm hit the village. The river below the bridge swelled with powerful currents.\n\nMany villagers feared the bridge would collapse.\n\nBut when the storm ended, they saw something surprising. A few wooden planks had broken, but the bridge itself still stood strong.\n\nThe small planks had protected the structure. Even if one piece broke, the others held the bridge together.\n\nThe villagers repaired the damaged planks easily, and life continued as usual.\n\nFrom that day on, the villagers understood Dev"s wisdom.\n\nLife is like that bridge. If everything depends on one big step, a single failure can break it.\n\nBut when life is built with many small efforts, patience, and lessons, it becomes strong enough to survive even the biggest storms."
     },
     {
       "id": "en_story_260608",
@@ -444,7 +483,7 @@
     },
     {
       "id": "en_story_260607",
-      "title": "The Banyan Tree's Secret",
+      "title": "The Banyan Tree"s Secret",
       "category": "Folklore",
       "banner_urls": [
         "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
@@ -460,7 +499,7 @@
         "wisdom"
       ],
       "language": "en",
-      "content": "In a quiet village surrounded by fields of golden wheat, there stood a massive banyan tree at the center of the village square. Its roots spread deep into the earth, and its branches stretched wide like protective arms.\n\nThe villagers called it 'The Listening Tree.' For generations, people believed the banyan tree held the wisdom of their ancestors.\n\nWhenever someone faced a difficult decision, they would sit beneath the tree and speak their thoughts aloud.\n\nNo one expected the tree to answer, yet many villagers claimed that after sitting there, their minds somehow became clearer.\n\nOne evening, a young boy named Arjun sat beneath the banyan tree. His father wanted him to leave the village to work in the city, but Arjun loved the land and wanted to become a farmer.\n\nConfused and worried, he whispered, \"If you truly hold wisdom, help me understand what I should do.\"\n\nThe wind gently rustled through the leaves, and the hanging roots swayed softly.\n\nThe next morning, while walking near the fields, Arjun noticed something strange. A small patch of land near the banyan tree was greener than the rest of the dry fields.\n\nCurious, he began digging and discovered an underground water stream flowing beneath the soil.\n\nWith the help of the villagers, they created a small well at that spot. Soon, fresh water became available even during dry seasons.\n\nThe discovery improved farming across the entire village, and Arjun became the one who managed the new irrigation well.\n\nFrom that day forward, the villagers believed the banyan tree had quietly guided Arjun to the answer he needed.\n\nAnd so, the great tree continued to stand in the center of the village — silently listening, patiently waiting for the next heart seeking wisdom."
+      "content": "In a quiet village surrounded by fields of golden wheat, there stood a massive banyan tree at the center of the village square. Its roots spread deep into the earth, and its branches stretched wide like protective arms.\n\nThe villagers called it "The Listening Tree." For generations, people believed the banyan tree held the wisdom of their ancestors.\n\nWhenever someone faced a difficult decision, they would sit beneath the tree and speak their thoughts aloud.\n\nNo one expected the tree to answer, yet many villagers claimed that after sitting there, their minds somehow became clearer.\n\nOne evening, a young boy named Arjun sat beneath the banyan tree. His father wanted him to leave the village to work in the city, but Arjun loved the land and wanted to become a farmer.\n\nConfused and worried, he whispered, \"If you truly hold wisdom, help me understand what I should do.\"\n\nThe wind gently rustled through the leaves, and the hanging roots swayed softly.\n\nThe next morning, while walking near the fields, Arjun noticed something strange. A small patch of land near the banyan tree was greener than the rest of the dry fields.\n\nCurious, he began digging and discovered an underground water stream flowing beneath the soil.\n\nWith the help of the villagers, they created a small well at that spot. Soon, fresh water became available even during dry seasons.\n\nThe discovery improved farming across the entire village, and Arjun became the one who managed the new irrigation well.\n\nFrom that day forward, the villagers believed the banyan tree had quietly guided Arjun to the answer he needed.\n\nAnd so, the great tree continued to stand in the center of the village — silently listening, patiently waiting for the next heart seeking wisdom."
     },
     {
       "id": "en_story_260606",
@@ -500,7 +539,7 @@
         "legend"
       ],
       "language": "en",
-      "content": "In an ancient village nestled between green hills, there flowed a river that the villagers called 'Smriti Nadi' — the River of Memories. The elders often told children that the river remembered every story that ever happened in the village.\n\nNo one truly knew how old the river was. Some believed it had been flowing long before the village even existed. But there was one strange belief everyone respected — the river listened.\n\nIf someone spoke honestly to the river, it would guide them in mysterious ways.\n\nOne summer, a young girl named Tara came to the riverbank with a troubled heart. Her family had lost their farmland due to a long drought, and the village had slowly begun to struggle.\n\nTara sat by the water and whispered, \"If you truly remember everything, then you must know how our village once survived difficult times.\"\n\nThe river flowed quietly as if thinking.\n\nThe next morning, while walking along the bank, Tara noticed something unusual. The water had revealed old stone markings that were never visible before. Curious, she called the elders.\n\nThe markings turned out to be ancient irrigation paths carved by the ancestors of the village centuries ago. Over time, they had been buried beneath soil and forgotten.\n\nWith the help of the villagers, the old irrigation channels were restored. Soon, water began flowing again into the dry farmlands.\n\nCrops slowly returned, and life in the village began to flourish once more.\n\nFrom that day on, the villagers believed more strongly than ever that the river truly remembered the wisdom of the past.\n\nAnd whenever someone sat by the river with a sincere heart, the flowing water seemed to whisper gently — reminding them that the past always holds lessons for the future."
+      "content": "In an ancient village nestled between green hills, there flowed a river that the villagers called "Smriti Nadi" — the River of Memories. The elders often told children that the river remembered every story that ever happened in the village.\n\nNo one truly knew how old the river was. Some believed it had been flowing long before the village even existed. But there was one strange belief everyone respected — the river listened.\n\nIf someone spoke honestly to the river, it would guide them in mysterious ways.\n\nOne summer, a young girl named Tara came to the riverbank with a troubled heart. Her family had lost their farmland due to a long drought, and the village had slowly begun to struggle.\n\nTara sat by the water and whispered, \"If you truly remember everything, then you must know how our village once survived difficult times.\"\n\nThe river flowed quietly as if thinking.\n\nThe next morning, while walking along the bank, Tara noticed something unusual. The water had revealed old stone markings that were never visible before. Curious, she called the elders.\n\nThe markings turned out to be ancient irrigation paths carved by the ancestors of the village centuries ago. Over time, they had been buried beneath soil and forgotten.\n\nWith the help of the villagers, the old irrigation channels were restored. Soon, water began flowing again into the dry farmlands.\n\nCrops slowly returned, and life in the village began to flourish once more.\n\nFrom that day on, the villagers believed more strongly than ever that the river truly remembered the wisdom of the past.\n\nAnd whenever someone sat by the river with a sincere heart, the flowing water seemed to whisper gently — reminding them that the past always holds lessons for the future."
     },
     {
       "id": "en_story_260604",
@@ -520,7 +559,7 @@
         "legend"
       ],
       "language": "en",
-      "content": "Long ago, in a village surrounded by a vast and mysterious forest, people believed that the woods were protected by an unseen guardian. The elders often warned children, \"Respect the forest, for it watches everything.\"\n\nMost villagers treated the forest with care. They only took what they needed — a few fruits, dry wood, or medicinal herbs. But there was one young man named Karan who never believed in these old stories.\n\n\"There is no guardian,\" he would laugh. \"These are just tales to scare people.\"\n\nOne day, determined to prove everyone wrong, Karan decided to go deep into the forest at night. The moonlight barely touched the tall trees, and strange sounds echoed from every direction.\n\nAs he walked further, he noticed something unusual. The wind suddenly stopped. The forest became completely silent.\n\nThen he saw it.\n\nA faint glowing figure standing between the trees.\n\nKaran's heart began to race. The figure looked like an old man made of light and leaves. His eyes shone softly like stars through the branches.\n\n\"Why have you come here?\" the figure asked in a calm voice.\n\nKaran tried to speak but could barely move.\n\nThe guardian stepped closer and said, \"The forest gives life to your village — air, water, and shelter. Yet many forget to respect it.\"\n\nSuddenly the ground around them lit up, showing visions of rivers drying, trees falling, and animals disappearing.\n\n\"A forest is not just trees,\" the guardian said. \"It is a living world.\"\n\nThe next moment, the light vanished.\n\nKaran found himself standing alone in the quiet forest.\n\nThe next morning, he returned to the village and told everyone what he had seen. From that day forward, Karan became the most dedicated protector of the forest.\n\nAnd even today, the villagers say that if someone enters the forest with greed in their heart, the guardian will appear again — silently reminding them that nature must always be respected."
+      "content": "Long ago, in a village surrounded by a vast and mysterious forest, people believed that the woods were protected by an unseen guardian. The elders often warned children, \"Respect the forest, for it watches everything.\"\n\nMost villagers treated the forest with care. They only took what they needed — a few fruits, dry wood, or medicinal herbs. But there was one young man named Karan who never believed in these old stories.\n\n\"There is no guardian,\" he would laugh. \"These are just tales to scare people.\"\n\nOne day, determined to prove everyone wrong, Karan decided to go deep into the forest at night. The moonlight barely touched the tall trees, and strange sounds echoed from every direction.\n\nAs he walked further, he noticed something unusual. The wind suddenly stopped. The forest became completely silent.\n\nThen he saw it.\n\nA faint glowing figure standing between the trees.\n\nKaran"s heart began to race. The figure looked like an old man made of light and leaves. His eyes shone softly like stars through the branches.\n\n\"Why have you come here?\" the figure asked in a calm voice.\n\nKaran tried to speak but could barely move.\n\nThe guardian stepped closer and said, \"The forest gives life to your village — air, water, and shelter. Yet many forget to respect it.\"\n\nSuddenly the ground around them lit up, showing visions of rivers drying, trees falling, and animals disappearing.\n\n\"A forest is not just trees,\" the guardian said. \"It is a living world.\"\n\nThe next moment, the light vanished.\n\nKaran found himself standing alone in the quiet forest.\n\nThe next morning, he returned to the village and told everyone what he had seen. From that day forward, Karan became the most dedicated protector of the forest.\n\nAnd even today, the villagers say that if someone enters the forest with greed in their heart, the guardian will appear again — silently reminding them that nature must always be respected."
     },
     {
       "id": "en_story_260603",
@@ -578,7 +617,7 @@
         "promise"
       ],
       "language": "en",
-      "content": "In a quiet town surrounded by green fields, there stood a huge banyan tree near a small lake. For most people, it was just another old tree. But for Aarav and Naina, it was a place filled with memories.\n\nThey first met there during their school days. Aarav was a shy boy who loved books, while Naina was cheerful and full of laughter. Every afternoon after school, they would sit under the tree and talk about dreams, life, and the future.\n\nYears passed, and their friendship slowly turned into something deeper. They never needed grand words to express it. A smile, a small note, or a quiet walk by the lake was enough.\n\nOne evening, Aarav gave Naina a small envelope and said, \"Open it when you miss me.\" Naina laughed and asked, \"Where are you going?\" Aarav replied softly, \"To the city... for studies.\"\n\nLife in the city became busy for Aarav. He worked hard to build his career, but the memory of the old tree and Naina's laughter never left him.\n\nBack in the town, Naina continued visiting the banyan tree every Sunday evening. She believed that some promises don't need constant words — they just need patience.\n\nYears later, Aarav finally returned to the town. The first place he went was the lake. The banyan tree still stood there, strong and silent.\n\nUnder its shade, he saw Naina sitting with the same calm smile.\n\nNaina slowly opened the envelope Aarav had given her years ago. Inside was a small letter that read:\n\n\"No matter how far life takes me, my heart will always find its way back to you.\"\n\nSome love stories are not written in grand moments. They are written quietly — in waiting, in trust, and in promises kept beneath an old tree."
+      "content": "In a quiet town surrounded by green fields, there stood a huge banyan tree near a small lake. For most people, it was just another old tree. But for Aarav and Naina, it was a place filled with memories.\n\nThey first met there during their school days. Aarav was a shy boy who loved books, while Naina was cheerful and full of laughter. Every afternoon after school, they would sit under the tree and talk about dreams, life, and the future.\n\nYears passed, and their friendship slowly turned into something deeper. They never needed grand words to express it. A smile, a small note, or a quiet walk by the lake was enough.\n\nOne evening, Aarav gave Naina a small envelope and said, \"Open it when you miss me.\" Naina laughed and asked, \"Where are you going?\" Aarav replied softly, \"To the city... for studies.\"\n\nLife in the city became busy for Aarav. He worked hard to build his career, but the memory of the old tree and Naina"s laughter never left him.\n\nBack in the town, Naina continued visiting the banyan tree every Sunday evening. She believed that some promises don"t need constant words — they just need patience.\n\nYears later, Aarav finally returned to the town. The first place he went was the lake. The banyan tree still stood there, strong and silent.\n\nUnder its shade, he saw Naina sitting with the same calm smile.\n\nNaina slowly opened the envelope Aarav had given her years ago. Inside was a small letter that read:\n\n\"No matter how far life takes me, my heart will always find its way back to you.\"\n\nSome love stories are not written in grand moments. They are written quietly — in waiting, in trust, and in promises kept beneath an old tree."
     }
   ]
 }
