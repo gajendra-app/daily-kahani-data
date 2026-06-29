@@ -1,59 +1,86 @@
 {
   "quotes": [
     {
-  "id": "en_quote_260701",
-  "text": "Time doesn't change people, it just unmasks them. Treasure the ones who stayed when the seasons changed.",
-  "author": "Gulzar",
-  "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-  "date": "2026-07-01",
-  "category": "Life",
-  "language": "en"
-},
+      "id": "en_quote_260704",
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "date": "2026-07-04",
+      "category": "Dreams",
+      "language": "en"
+    },
     {
-  "id": "en_quote_260630",
-  "text": "Before you start any work, always ask yourself three questions: Why am I doing it, What the results might be, and Will I be successful. Only when you think deeply and find satisfactory answers, go ahead.",
-  "author": "Chanakya",
-  "banner_url": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80",
-  "date": "2026-06-30",
-  "category": "Wisdom",
-  "language": "en"
-},
+      "id": "en_quote_260703",
+      "text": "Every new day is another chance to change your life, learn something new, and become a better version of yourself.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
+      "date": "2026-07-03",
+      "category": "Motivation",
+      "language": "en"
+    },
     {
-  "id": "en_quote_260629",
-  "text": "The best way to find yourself is to lose yourself in the service of others.",
-  "author": "Mahatma Gandhi",
-  "banner_url": "https://images.unsplash.com/photo-1469571486040-3b4b11c99dff?w=800&q=80",
-  "date": "2026-06-29",
-  "category": "Life",
-  "language": "en"
-},
+      "id": "en_quote_260702",
+      "text": "Success is not measured by how high you climb, but by how many people you inspire along the way.",
+      "author": "Roy T. Bennett",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-07-02",
+      "category": "Inspiration",
+      "language": "en"
+    },
     {
-  "id": "en_quote_260628",
-  "text": "You only have control over your actions, never over the fruits of those actions. Let not the fruit of action be your motive.",
-  "author": "Bhagavad Gita",
-  "banner_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&q=80",
-  "date": "2026-06-28",
-  "category": "Motivation",
-  "language": "en"
-},
+      "id": "en_quote_260701",
+      "text": "Time doesn't change people, it just unmasks them. Treasure the ones who stayed when the seasons changed.",
+      "author": "Gulzar",
+      "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "date": "2026-07-01",
+      "category": "Life",
+      "language": "en"
+    },
     {
-  "id": "en_quote_260627",
-  "text": "Success is not measured by what you achieve, but by the obstacles you overcome along the way.",
-  "author": "A. P. J. Abdul Kalam",
-  "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
-  "date": "2026-06-27",
-  "category": "Life",
-  "language": "en"
-},
+      "id": "en_quote_260630",
+      "text": "Before you start any work, always ask yourself three questions: Why am I doing it, What the results might be, and Will I be successful. Only when you think deeply and find satisfactory answers, go ahead.",
+      "author": "Chanakya",
+      "banner_url": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80",
+      "date": "2026-06-30",
+      "category": "Wisdom",
+      "language": "en"
+    },
     {
-  "id": "en_quote_260626",
-  "text": "The mind is everything. What you think you become.",
-  "author": "Gautama Buddha",
-  "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-  "date": "2026-06-26",
-  "category": "Spiritual",
-  "language": "en"
-},
+      "id": "en_quote_260629",
+      "text": "The best way to find yourself is to lose yourself in the service of others.",
+      "author": "Mahatma Gandhi",
+      "banner_url": "https://images.unsplash.com/photo-1469571486040-3b4b11c99dff?w=800&q=80",
+      "date": "2026-06-29",
+      "category": "Life",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260628",
+      "text": "You only have control over your actions, never over the fruits of those actions. Let not the fruit of action be your motive.",
+      "author": "Bhagavad Gita",
+      "banner_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&q=80",
+      "date": "2026-06-28",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260627",
+      "text": "Success is not measured by what you achieve, but by the obstacles you overcome along the way.",
+      "author": "A. P. J. Abdul Kalam",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-06-27",
+      "category": "Life",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260626",
+      "text": "The mind is everything. What you think you become.",
+      "author": "Gautama Buddha",
+      "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "date": "2026-06-26",
+      "category": "Spiritual",
+      "language": "en"
+    },
     {
       "id": "en_quote_260625",
       "text": "Do not be afraid of difficulties — they come only to test your strength. Learn to rise, not bow.",
@@ -144,50 +171,50 @@
       "category": "Spiritual",
       "language": "en"
     },
-   {
-     "id": "en_quote_260615",
-    "text": "A wise man learns more from his enemies than a fool from his friends.",
-    "author": "Chanakya",
-    "banner_url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
-    "date": "2026-06-15",
-    "category": "Wisdom",
-    "language": "en"
+    {
+      "id": "en_quote_260615",
+      "text": "A wise man learns more from his enemies than a fool from his friends.",
+      "author": "Chanakya",
+      "banner_url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
+      "date": "2026-06-15",
+      "category": "Wisdom",
+      "language": "en"
     },
     {
-     "id": "en_quote_260614",
-     "text": "Do not wait for the perfect time; start where you are and make it perfect along the way.",
-     "author": "Mark Twain",
-     "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
-     "date": "2026-06-14",
-     "category": "Motivation",
-     "language": "en"
+      "id": "en_quote_260614",
+      "text": "Do not wait for the perfect time; start where you are and make it perfect along the way.",
+      "author": "Mark Twain",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-06-14",
+      "category": "Motivation",
+      "language": "en"
     },
     {
-     "id": "en_quote_260613",
-     "text": "Life isn’t about finding yourself. Life is about creating yourself.",
-     "author": "George Bernard Shaw",
-     "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
-     "date": "2026-06-13",
-     "category": "Life",
-     "language": "en"
+      "id": "en_quote_260613",
+      "text": "Life isn’t about finding yourself. Life is about creating yourself.",
+      "author": "George Bernard Shaw",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-06-13",
+      "category": "Life",
+      "language": "en"
     },
     {
-     "id": "en_quote_260612",
-     "text": "Believe you can and you're halfway there.",
-     "author": "Theodore Roosevelt",
-     "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
-    "date": "2026-06-12",
-    "category": "Motivation",
-    "language": "en"
+      "id": "en_quote_260612",
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-06-12",
+      "category": "Motivation",
+      "language": "en"
     },
     {
-     "id": "en_quote_260611",
-    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
-    "author": "C.S. Lewis",
-    "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
-    "date": "2026-06-11",
-    "category": "Motivation",
-    "language": "en"
+      "id": "en_quote_260611",
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+      "date": "2026-06-11",
+      "category": "Motivation",
+      "language": "en"
     },
     {
       "id": "en_quote_260610",
