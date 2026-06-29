@@ -1,50 +1,77 @@
 {
   "quotes": [
     {
-  "id": "hi_quote_260630",
-  "text": "उठो, जागो और तब तक मत रुको जब तक कि तुम अपने लक्ष्य को प्राप्त न कर लो।",
-  "author": "स्वामी विवेकानंद",
-  "banner_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
-  "date": "2026-06-30",
-  "category": "प्रेरणा",
-  "language": "hi"
-},
+      "id": "hi_quote_260703",
+      "text": "वर्तमान में किया गया हर छोटा प्रयास भविष्य की बड़ी सफलताओं की नींव बनता है।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "date": "2026-07-03",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
     {
-  "id": "hi_quote_260629",
-  "text": "वक्त बदलता है, लोग बदलते हैं, पर जो हर मौसम में साथ निभाए, वही असल ज़िंदगी की कमाई है।",
-  "author": "गुलज़ार",
-  "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-  "date": "2026-06-29",
-  "category": "जीवन",
-  "language": "hi"
-},
+      "id": "hi_quote_260702",
+      "text": "धैर्य वह शक्ति है जो कठिन से कठिन परिस्थितियों में भी इंसान को सही दिशा में आगे बढ़ने की प्रेरणा देती है।",
+      "author": "गौतम बुद्ध",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-07-02",
+      "category": "धैर्य",
+      "language": "hi"
+    },
     {
-  "id": "hi_quote_260628",
-  "text": "मनुष्य अपने विश्वास से निर्मित होता है, जैसा वह विश्वास करता है, वैसा ही वह बन जाता है।",
-  "author": "भगवद् गीता",
-  "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
-  "date": "2026-06-28",
-  "category": "आध्यात्म",
-  "language": "hi"
-},
+      "id": "hi_quote_260701",
+      "text": "जीवन में सबसे बड़ी जीत दूसरों को हराने में नहीं, बल्कि स्वयं की कमजोरियों पर विजय पाने में है।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-07-01",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
     {
-  "id": "hi_quote_260627",
-  "text": "समय और अवसर दोनों कभी किसी का इंतजार नहीं करते। जो उनका सही उपयोग करता है, वही सफलता प्राप्त करता है।",
-  "author": "चाणक्य",
-  "banner_url": "https://images.unsplash.com/photo-1473177104440-ffee2f376098?w=800&q=80",
-  "date": "2026-06-27",
-  "category": "जीवन",
-  "language": "hi"
-},
+      "id": "hi_quote_260630",
+      "text": "उठो, जागो और तब तक मत रुको जब तक कि तुम अपने लक्ष्य को प्राप्त न कर लो।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
+      "date": "2026-06-30",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
     {
-  "id": "hi_quote_260626",
-  "text": "सपने वो नहीं जो हम सोते समय देखते हैं, सपने वो हैं जो हमें सोने नहीं देते।",
-  "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
-  "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
-  "date": "2026-06-26",
-  "category": "प्रेरणा",
-  "language": "hi"
-},
+      "id": "hi_quote_260629",
+      "text": "वक्त बदलता है, लोग बदलते हैं, पर जो हर मौसम में साथ निभाए, वही असल ज़िंदगी की कमाई है।",
+      "author": "गुलज़ार",
+      "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "date": "2026-06-29",
+      "category": "जीवन",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260628",
+      "text": "मनुष्य अपने विश्वास से निर्मित होता है, जैसा वह विश्वास करता है, वैसा ही वह बन जाता है।",
+      "author": "भगवद् गीता",
+      "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "date": "2026-06-28",
+      "category": "आध्यात्म",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260627",
+      "text": "समय और अवसर दोनों कभी किसी का इंतजार नहीं करते। जो उनका सही उपयोग करता है, वही सफलता प्राप्त करता है।",
+      "author": "चाणक्य",
+      "banner_url": "https://images.unsplash.com/photo-1473177104440-ffee2f376098?w=800&q=80",
+      "date": "2026-06-27",
+      "category": "जीवन",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260626",
+      "text": "सपने वो नहीं जो हम सोते समय देखते हैं, सपने वो हैं जो हमें सोने नहीं देते।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-06-26",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
     {
       "id": "hi_quote_260625",
       "text": "ज़िंदगी एक सफर है, मंज़िल से ज़्यादा खूबसूरत रास्ता होता है। हर क़दम में एक नया अंदाज़ होता है।",
@@ -136,49 +163,49 @@
       "language": "hi"
     },
     {
-     "id": "hi_quote_260615",
-     "text": "संघर्ष जितना कठिन होगा, जीत उतनी ही शानदार होगी।",
-     "author": "महात्मा गाँधी",
-     "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
-     "date": "2026-06-15",
-     "category": "प्रेरणा",
-     "language": "hi"
+      "id": "hi_quote_260615",
+      "text": "संघर्ष जितना कठिन होगा, जीत उतनी ही शानदार होगी।",
+      "author": "महात्मा गाँधी",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-06-15",
+      "category": "प्रेरणा",
+      "language": "hi"
     },
     {
-     "id": "hi_quote_260614",
-     "text": "सफलता पाने के लिए जरूरी है कि आप असफलताओं से सीखें और आगे बढ़ते रहें।",
-     "author": "ए.पी.जे. अब्दुल कलाम",
-     "banner_url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=800&q=80",
-     "date": "2026-06-14",
-     "category": "जीवन",
-     "language": "hi"
+      "id": "hi_quote_260614",
+      "text": "सफलता पाने के लिए जरूरी है कि आप असफलताओं से सीखें और आगे बढ़ते रहें।",
+      "author": "ए.पी.जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=800&q=80",
+      "date": "2026-06-14",
+      "category": "जीवन",
+      "language": "hi"
     },
     {
-     "id": "hi_quote_260613",
-     "text": "जीवन में कठिनाइयाँ हमें मजबूत बनाने के लिए आती हैं, न कि हमें रोकने के लिए।",
-     "author": "रवीन्द्रनाथ टैगोर",
-     "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
-     "date": "2026-06-13",
-     "category": "जीवन",
-     "language": "hi"
+      "id": "hi_quote_260613",
+      "text": "जीवन में कठिनाइयाँ हमें मजबूत बनाने के लिए आती हैं, न कि हमें रोकने के लिए।",
+      "author": "रवीन्द्रनाथ टैगोर",
+      "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+      "date": "2026-06-13",
+      "category": "जीवन",
+      "language": "hi"
     },
     {
-     "id": "hi_quote_260612",
-     "text": "आपकी सोच ही आपकी दुनिया बनाती है, इसलिए हमेशा सकारात्मक सोचें।",
-     "author": "स्वामी विवेकानंद",
-     "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
-     "date": "2026-06-12",
-     "category": "जीवन",
-     "language": "hi"
+      "id": "hi_quote_260612",
+      "text": "आपकी सोच ही आपकी दुनिया बनाती है, इसलिए हमेशा सकारात्मक सोचें।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-06-12",
+      "category": "जीवन",
+      "language": "hi"
     },
     {
-     "id": "hi_quote_260611",
-     "text": "जो व्यक्ति अपने समय का सम्मान करता है, वही जीवन में सफल होता है।",
-     "author": "चाणक्य",
-     "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
-     "date": "2026-06-11",
-     "category": "जीवन",
-     "language": "hi"
+      "id": "hi_quote_260611",
+      "text": "जो व्यक्ति अपने समय का सम्मान करता है, वही जीवन में सफल होता है।",
+      "author": "चाणक्य",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-06-11",
+      "category": "जीवन",
+      "language": "hi"
     },
     {
       "id": "hi_quote_260610",
