@@ -386,6 +386,33 @@
       "date": "2026-07-18",
       "category": "Motivation",
       "language": "en"
+    },
+    {
+      "id": "en_quote_260717",
+      "text": "Success is built one small step at a time. Stay patient, stay consistent, and trust the journey.",
+      "author": "Anonymous",
+      "banner_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "date": "2026-07-17",
+      "category": "Success",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260716",
+      "text": "Courage is not the absence of fear. It is the decision to move forward despite it.",
+      "author": "Anonymous",
+      "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "date": "2026-07-16",
+      "category": "Courage",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260715",
+      "text": "Every sunrise brings a new chance to begin again. Leave yesterday behind and make today meaningful.",
+      "author": "Anonymous",
+      "banner_url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=800&q=80",
+      "date": "2026-07-15",
+      "category": "Life",
+      "language": "en"
     }
   ]
 }
