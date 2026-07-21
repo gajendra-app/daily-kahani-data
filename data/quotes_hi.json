@@ -1,104 +1,104 @@
 {
   "quotes": [
     {
-    "id": "hi_quote_260901",
-    "text": "सच्ची सफलता वही है जो आपके साथ-साथ दूसरों के जीवन में भी उजाला भर दे।",
-    "author": "स्वामी विवेकानंद",
-    "banner_url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
-    "date": "2026-09-01",
-    "category": "प्रेरणा",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260831",
-    "text": "हर नई सुबह अपने साथ एक नया अवसर लेकर आती है, उसे पहचानिए और आगे बढ़िए।",
-    "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
-    "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
-    "date": "2026-08-31",
-    "category": "जीवन",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260830",
-    "text": "धैर्य और निरंतर प्रयास से असंभव लक्ष्य भी संभव बन जाते हैं।",
-    "author": "महात्मा गांधी",
-    "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
-    "date": "2026-08-30",
-    "category": "सफलता",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260829",
-    "text": "अपने विचारों को सकारात्मक बनाइए, क्योंकि वही आपके भविष्य का निर्माण करते हैं।",
-    "author": "स्वामी विवेकानंद",
-    "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
-    "date": "2026-08-29",
-    "category": "प्रेरणा",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260828",
-    "text": "जो व्यक्ति सीखना नहीं छोड़ता, वह कभी आगे बढ़ना नहीं छोड़ता।",
-    "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
-    "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
-    "date": "2026-08-28",
-    "category": "शिक्षा",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260827",
-    "text": "ईमानदारी से किया गया हर कार्य अंततः सम्मान और सफलता दिलाता है।",
-    "author": "महात्मा गांधी",
-    "banner_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
-    "date": "2026-08-27",
-    "category": "जीवन",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260826",
-    "text": "कठिनाइयाँ केवल यह साबित करती हैं कि आप सफलता के और अधिक करीब हैं।",
-    "author": "स्वामी विवेकानंद",
-    "banner_url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&q=80",
-    "date": "2026-08-26",
-    "category": "प्रेरणा",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260825",
-    "text": "जो अपने समय का सम्मान करता है, समय भी उसकी सफलता का सम्मान करता है।",
-    "author": "चाणक्य",
-    "banner_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
-    "date": "2026-08-25",
-    "category": "समय",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260824",
-    "text": "हर दिन स्वयं का बेहतर रूप बनने की कोशिश ही सबसे बड़ी उपलब्धि है।",
-    "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
-    "banner_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-    "date": "2026-08-24",
-    "category": "आत्मविकास",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260823",
-    "text": "यदि आपका लक्ष्य स्पष्ट है, तो हर कदम आपको मंज़िल के करीब ले जाएगा।",
-    "author": "स्वामी विवेकानंद",
-    "banner_url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
-    "date": "2026-08-23",
-    "category": "लक्ष्य",
-    "language": "hi"
-  },
-  {
-    "id": "hi_quote_260822",
-    "text": "सपनों को सच करने का पहला कदम उन पर विश्वास करना है।",
-    "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
-    "banner_url": "https://images.unsplash.com/photo-1469571486040-3b4b11c99dff?w=800&q=80",
-    "date": "2026-08-22",
-    "category": "प्रेरणा",
-    "language": "hi"
-  },
+      "id": "hi_quote_260901",
+      "text": "सच्ची सफलता वही है जो आपके साथ-साथ दूसरों के जीवन में भी उजाला भर दे।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
+      "date": "2026-09-01",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260831",
+      "text": "हर नई सुबह अपने साथ एक नया अवसर लेकर आती है, उसे पहचानिए और आगे बढ़िए।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-08-31",
+      "category": "जीवन",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260830",
+      "text": "धैर्य और निरंतर प्रयास से असंभव लक्ष्य भी संभव बन जाते हैं।",
+      "author": "महात्मा गांधी",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-08-30",
+      "category": "सफलता",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260829",
+      "text": "अपने विचारों को सकारात्मक बनाइए, क्योंकि वही आपके भविष्य का निर्माण करते हैं।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+      "date": "2026-08-29",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260828",
+      "text": "जो व्यक्ति सीखना नहीं छोड़ता, वह कभी आगे बढ़ना नहीं छोड़ता।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+      "date": "2026-08-28",
+      "category": "शिक्षा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260827",
+      "text": "ईमानदारी से किया गया हर कार्य अंततः सम्मान और सफलता दिलाता है।",
+      "author": "महात्मा गांधी",
+      "banner_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800&q=80",
+      "date": "2026-08-27",
+      "category": "जीवन",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260826",
+      "text": "कठिनाइयाँ केवल यह साबित करती हैं कि आप सफलता के और अधिक करीब हैं।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&q=80",
+      "date": "2026-08-26",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260825",
+      "text": "जो अपने समय का सम्मान करता है, समय भी उसकी सफलता का सम्मान करता है।",
+      "author": "चाणक्य",
+      "banner_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
+      "date": "2026-08-25",
+      "category": "समय",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260824",
+      "text": "हर दिन स्वयं का बेहतर रूप बनने की कोशिश ही सबसे बड़ी उपलब्धि है।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "date": "2026-08-24",
+      "category": "आत्मविकास",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260823",
+      "text": "यदि आपका लक्ष्य स्पष्ट है, तो हर कदम आपको मंज़िल के करीब ले जाएगा।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
+      "date": "2026-08-23",
+      "category": "लक्ष्य",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260822",
+      "text": "सपनों को सच करने का पहला कदम उन पर विश्वास करना है।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1469571486040-3b4b11c99dff?w=800&q=80",
+      "date": "2026-08-22",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
     {
       "id": "hi_quote_260821",
       "text": "वर्तमान में किया गया हर छोटा प्रयास भविष्य की बड़ी सफलताओं की नींव बनता है।",
@@ -394,6 +394,51 @@
       "banner_url": "https://images.unsplash.com/photo-1527004013197-933b977e87ed?w=800&q=80",
       "date": "2026-07-20",
       "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260719",
+      "text": "सफलता रातों-रात नहीं मिलती। वह हर दिन किए गए छोटे-छोटे प्रयासों का परिणाम होती है।",
+      "author": "ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-07-19",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260718",
+      "text": "उम्मीद वह रोशनी है जो सबसे गहरे अंधेरे में भी हमें आगे बढ़ने का रास्ता दिखाती है।",
+      "author": "अनाम",
+      "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+      "date": "2026-07-18",
+      "category": "उम्मीद",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260717",
+      "text": "धैर्य वह शक्ति है जो कठिन समय को भी सफलता की सीढ़ी बना देती है।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "date": "2026-07-17",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260716",
+      "text": "साहसी वह नहीं जो कभी डरता नहीं, बल्कि वह है जो डर के बावजूद सही काम करता है।",
+      "author": "नेल्सन मंडेला",
+      "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "date": "2026-07-16",
+      "category": "साहस",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260715",
+      "text": "हर नया दिन एक नया अवसर है। बीते हुए कल से सीखिए और आज को पूरी लगन से जीएँ।",
+      "author": "अनाम",
+      "banner_url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=800&q=80",
+      "date": "2026-07-15",
+      "category": "जीवन",
       "language": "hi"
     }
   ]
