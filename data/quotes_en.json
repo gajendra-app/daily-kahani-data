@@ -368,6 +368,24 @@
       "date": "2026-07-20",
       "category": "Wisdom",
       "language": "en"
+    },
+    {
+      "id": "en_quote_260719",
+      "text": "Kindness costs nothing, yet it has the power to change someone's entire day. A small act of compassion can leave a lasting impact.",
+      "author": "Anonymous",
+      "banner_url": "https://images.unsplash.com/photo-1468779036391-52341f60b55d?w=800&q=80",
+      "date": "2026-07-19",
+      "category": "Kindness",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260718",
+      "text": "Hope is not the belief that everything will be easy. It is the courage to keep moving forward, even when the path is uncertain.",
+      "author": "Anonymous",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-07-18",
+      "category": "Motivation",
+      "language": "en"
     }
   ]
 }
