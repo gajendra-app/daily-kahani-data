@@ -1,6 +1,15 @@
 {
   "quotes": [
     {
+  "id": "en_quote_260830",
+  "text": "Success is the sum of small efforts, repeated day in and day out.",
+  "author": "Robert Collier",
+  "banner_url": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+  "date": "2026-08-30",
+  "category": "Success",
+  "language": "en"
+},
+    {
       "id": "en_quote_260829",
       "text": "Every accomplishment starts with the decision to try.",
       "author": "John F. Kennedy",
