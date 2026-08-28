@@ -1,6 +1,24 @@
 {
   "quotes": [
     {
+      "id": "en_quote_260902",
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "banner_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
+      "date": "2026-09-02",
+      "category": "Perseverance",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260901",
+      "text": "The future depends on what you do today.",
+      "author": "Mahatma Gandhi",
+      "banner_url": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "date": "2026-09-01",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
       "id": "en_quote_260831",
       "text": "The secret of getting ahead is getting started.",
       "author": "Mark Twain",
