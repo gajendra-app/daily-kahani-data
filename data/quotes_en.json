@@ -1,6 +1,33 @@
 {
   "quotes": [
     {
+      "id": "en_quote_260905",
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "banner_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
+      "date": "2026-09-05",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260904",
+      "text": "Great things are done by a series of small things brought together.",
+      "author": "Vincent van Gogh",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-09-04",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260903",
+      "text": "Success is the sum of small efforts, repeated day in and day out.",
+      "author": "Robert Collier",
+      "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "date": "2026-09-03",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
       "id": "en_quote_260902",
       "text": "It does not matter how slowly you go as long as you do not stop.",
       "author": "Confucius",
