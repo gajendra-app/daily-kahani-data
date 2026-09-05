@@ -1,6 +1,51 @@
 {
   "quotes": [
     {
+      "id": "en_quote_260910",
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "banner_url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
+      "date": "2026-09-10",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260909",
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "banner_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "date": "2026-09-09",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260908",
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "banner_url": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "date": "2026-09-08",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260907",
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "banner_url": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "date": "2026-09-07",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260906",
+      "text": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "banner_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
+      "date": "2026-09-06",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
       "id": "en_quote_260905",
       "text": "Start where you are. Use what you have. Do what you can.",
       "author": "Arthur Ashe",
