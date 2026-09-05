@@ -1,11 +1,83 @@
 {
   "quotes": [
     {
+      "id": "hi_quote_260913",
+      "text": "परिश्रम कभी व्यर्थ नहीं जाता; हर प्रयास आपको सफलता के एक कदम और करीब ले जाता है।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&q=80",
+      "date": "2026-09-13",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260912",
+      "text": "जिसने अपने मन को जीत लिया, उसने संसार को जीत लिया।",
+      "author": "गौतम बुद्ध",
+      "banner_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
+      "date": "2026-09-12",
+      "category": "विचार",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260911",
+      "text": "विश्वास वह शक्ति है जो असंभव को भी संभव बना सकती है।",
+      "author": "स्वामी विवेकानंद",
+      "banner_url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
+      "date": "2026-09-11",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260910",
+      "text": "कठिनाइयाँ जीवन का हिस्सा हैं, लेकिन उनसे हार मान लेना हमारी पसंद है।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
+      "date": "2026-09-10",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260909",
+      "text": "अपने लक्ष्य पर ध्यान केंद्रित रखो और रास्ते की कठिनाइयों को अपनी शक्ति बनने दो।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "date": "2026-09-09",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260908",
+      "text": "जो समय को नष्ट करते हैं, समय उन्हें नष्ट कर देता है।",
+      "author": "चाणक्य",
+      "banner_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "date": "2026-09-08",
+      "category": "विचार",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260907",
+      "text": "मन के हारे हार है, मन के जीते जीत।",
+      "author": "कबीर",
+      "banner_url": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "date": "2026-09-07",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
       "id": "hi_quote_260906",
+      "text": "सफलता उन्हीं को मिलती है जो अपने लक्ष्य के प्रति दृढ़ रहते हैं।",
+      "author": "डॉ. ए. पी. जे. अब्दुल कलाम",
+      "banner_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&q=80",
+      "date": "2026-09-06",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_260905",
       "text": "विचार ही मनुष्य के जीवन को आकार देते हैं; जैसा आप सोचते हैं, वैसा ही बनते हैं।",
       "author": "स्वामी विवेकानंद",
       "banner_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
-      "date": "2026-09-06",
+      "date": "2026-09-05",
       "category": "विचार",
       "language": "hi"
     },
