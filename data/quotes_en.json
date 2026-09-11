@@ -1,6 +1,96 @@
 {
   "quotes": [
     {
+      "id": "en_quote_260920",
+      "text": "The best investment you can make is in yourself, because the knowledge and strength you gain stay with you forever.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80",
+      "date": "2026-09-20",
+      "category": "Self Growth",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260919",
+      "text": "Be proud of how far you have come, even if you are not yet where you want to be.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-09-19",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260918",
+      "text": "Patience turns difficult moments into valuable lessons and small efforts into meaningful progress.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "date": "2026-09-18",
+      "category": "Wisdom",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260917",
+      "text": "Do not compare your journey with someone else's. Your path has its own purpose.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+      "date": "2026-09-17",
+      "category": "Life",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260916",
+      "text": "A positive mind does not ignore problems; it looks for the strength to overcome them.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "date": "2026-09-16",
+      "category": "Positive Thinking",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260915",
+      "text": "Your dreams become possible when you have the courage to take the first step.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-09-15",
+      "category": "Dreams",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260914",
+      "text": "Every challenge is an opportunity to discover how strong you really are.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
+      "date": "2026-09-14",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260913",
+      "text": "Dream big and dare to fail.",
+      "author": "Norman Vincent Peale",
+      "banner_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&q=80",
+      "date": "2026-09-13",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260912",
+      "text": "The harder I work, the luckier I get.",
+      "author": "Samuel Goldwyn",
+      "banner_url": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80",
+      "date": "2026-09-12",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260911",
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "banner_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+      "date": "2026-09-11",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
       "id": "en_quote_260910",
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
