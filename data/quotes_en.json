@@ -1,6 +1,96 @@
 {
   "quotes": [
     {
+      "id": "en_quote_260930",
+      "text": "The only way to grow is to keep showing up, even on the days you feel like giving up.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-09-30",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260929",
+      "text": "Your future is created by what you do today, not by what you plan to do tomorrow.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80",
+      "date": "2026-09-29",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260928",
+      "text": "Small progress is still progress. Celebrate every step forward, no matter how tiny it seems.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80",
+      "date": "2026-09-28",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260927",
+      "text": "Doubt kills more dreams than failure ever will. Believe in yourself and take the next step.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&q=80",
+      "date": "2026-09-27",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260926",
+      "text": "You do not have to be perfect to be worthy of good things. Keep going as you are.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800&q=80",
+      "date": "2026-09-26",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260925",
+      "text": "The strongest people are not those who show strength in front of us, but those who win battles we know nothing about.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "date": "2026-09-25",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260924",
+      "text": "Every morning is a fresh start. Leave yesterday behind and give today your best energy.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-09-24",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260923",
+      "text": "Growth begins when you step outside your comfort zone. Courage is the first step to change.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80",
+      "date": "2026-09-23",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260922",
+      "text": "Be patient with yourself. Everything good takes time, including becoming the person you want to be.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80",
+      "date": "2026-09-22",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_260921",
+      "text": "You are allowed to be both a masterpiece and a work in progress at the same time.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&q=80",
+      "date": "2026-09-21",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
       "id": "en_quote_260920",
       "text": "The best investment you can make is in yourself, because the knowledge and strength you gain stay with you forever.",
       "author": "Unknown",
