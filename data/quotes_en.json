@@ -1,6 +1,96 @@
 {
   "quotes": [
     {
+      "id": "en_quote_261010",
+      "text": "Believe in your journey. Every step you take today brings you closer to the person you want to become.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
+      "date": "2026-10-10",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261009",
+      "text": "Success begins when you decide that your dreams are worth the effort, patience, and courage it takes to achieve them.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "date": "2026-10-09",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261008",
+      "text": "Do not be afraid of slow progress. Keep moving forward, because consistency can turn small efforts into remarkable results.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "date": "2026-10-08",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261007",
+      "text": "Sometimes the hardest days become the strongest chapters of your story. Keep going and trust yourself.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
+      "date": "2026-10-07",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261006",
+      "text": "You do not need to have everything figured out. Take one step, learn from it, and let the next step become clear.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-10-06",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261005",
+      "text": "Your effort may feel invisible today, but every honest attempt is building the strength and experience you will need tomorrow.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
+      "date": "2026-10-05",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261004",
+      "text": "A positive mind does not ignore problems. It chooses to believe that every problem has a way forward.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+      "date": "2026-10-04",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261003",
+      "text": "Every morning is another opportunity to improve yourself, make a better choice, and move closer to your goals.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1495195134817-aeb325a55b65?w=800&q=80",
+      "date": "2026-10-03",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261002",
+      "text": "Do not compare your beginning with someone else's middle. Focus on your own path and keep making progress.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-10-02",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261001",
+      "text": "One brave decision today can open the door to a better tomorrow. Trust yourself enough to take that first step.",
+      "author": "Unknown",
+      "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+      "date": "2026-10-01",
+      "category": "Inspiration",
+      "language": "en"
+    },
+    {
       "id": "en_quote_260930",
       "text": "The only way to grow is to keep showing up, even on the days you feel like giving up.",
       "author": "Unknown",
