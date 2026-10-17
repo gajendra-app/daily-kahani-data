@@ -1,6 +1,141 @@
 {
   "quotes": [
     {
+      "id": "en_quote_261030",
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "banner_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "date": "2026-10-30",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261029",
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "banner_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+      "date": "2026-10-29",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261028",
+      "text": "Opportunities don’t happen. You create them.",
+      "author": "Chris Grosser",
+      "banner_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "date": "2026-10-28",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261027",
+      "text": "Don’t watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "banner_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80",
+      "date": "2026-10-27",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261026",
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb",
+      "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "date": "2026-10-26",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261025",
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "banner_url": "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=800&q=80",
+      "date": "2026-10-25",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261024",
+      "text": "It always seems impossible until it’s done.",
+      "author": "Nelson Mandela",
+      "banner_url": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800&q=80",
+      "date": "2026-10-24",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261023",
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "banner_url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&q=80",
+      "date": "2026-10-23",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261022",
+      "text": "Believe you can and you’re halfway there.",
+      "author": "Theodore Roosevelt",
+      "banner_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "date": "2026-10-22",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261021",
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "banner_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+      "date": "2026-10-21",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261020",
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "banner_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
+      "date": "2026-10-20",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261019",
+      "text": "Everything you’ve ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "banner_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "date": "2026-10-19",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261018",
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "banner_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "date": "2026-10-18",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261017",
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "banner_url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=800&q=80",
+      "date": "2026-10-17",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
+      "id": "en_quote_261016",
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-10-16",
+      "category": "Motivation",
+      "language": "en"
+    },
+    {
       "id": "en_quote_261015",
       "text": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking.",
       "author": "Steve Jobs",
