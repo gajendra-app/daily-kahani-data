@@ -1,6 +1,150 @@
 {
   "quotes": [
     {
+      "id": "hi_quote_261115",
+      "text": "सपने तभी सच होते हैं जब उन्हें पूरा करने के लिए हर दिन मेहनत की जाती है।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+      "date": "2026-11-15",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261114",
+      "text": "मुश्किलें जीवन का हिस्सा हैं, लेकिन उनसे हार मान लेना हमारी पसंद है।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "date": "2026-11-14",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261113",
+      "text": "जो व्यक्ति अपने समय का सम्मान करता है, समय उसे सफलता का उपहार देता है।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-11-13",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261112",
+      "text": "छोटी-छोटी कोशिशें ही एक दिन बड़ी सफलता की कहानी लिखती हैं।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+      "date": "2026-11-12",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261111",
+      "text": "हार तब नहीं होती जब आप गिर जाते हैं, हार तब होती है जब आप उठना छोड़ देते हैं।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "date": "2026-11-11",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261110",
+      "text": "अपने लक्ष्य पर ध्यान रखो, दुनिया की बातें अपने आप छोटी लगने लगेंगी।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
+      "date": "2026-11-10",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261109",
+      "text": "सफलता का रास्ता कठिन जरूर होता है, लेकिन उसका परिणाम हमेशा खूबसूरत होता है।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1464278533981-50106e6176b1?w=800&q=80",
+      "date": "2026-11-09",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261108",
+      "text": "खुद पर भरोसा रखो, क्योंकि तुम्हारी सबसे बड़ी ताकत तुम्हारा आत्मविश्वास है।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
+      "date": "2026-11-08",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261107",
+      "text": "हर सुबह एक नया अवसर लेकर आती है, बस उसे पहचानने की जरूरत है।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?w=800&q=80",
+      "date": "2026-11-07",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261106",
+      "text": "मेहनत इतनी खामोशी से करो कि सफलता शोर मचा दे।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&q=80",
+      "date": "2026-11-06",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261105",
+      "text": "जो अपनी गलतियों से सीखता है, वही जीवन में आगे बढ़ता है।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "date": "2026-11-05",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261104",
+      "text": "धैर्य रखो, क्योंकि अच्छे परिणाम आने में समय जरूर लगता है।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+      "date": "2026-11-04",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261103",
+      "text": "किस्मत भी उसी का साथ देती है जो मेहनत करना नहीं छोड़ता।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+      "date": "2026-11-03",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261102",
+      "text": "जीतने का मजा तभी आता है जब लोग आपकी हार का इंतजार कर रहे हों।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "date": "2026-11-02",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261101",
+      "text": "खुद को इतना बेहतर बनाओ कि तुम्हें किसी से मुकाबला करने की जरूरत न पड़े।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800&q=80",
+      "date": "2026-11-01",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
+      "id": "hi_quote_261031",
+      "text": "जीवन में आगे बढ़ना है तो डर से नहीं, अपने सपनों से प्रेरणा लो।",
+      "author": "अज्ञात",
+      "banner_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "date": "2026-10-31",
+      "category": "प्रेरणा",
+      "language": "hi"
+    },
+    {
       "id": "hi_quote_261030",
       "text": "हिम्मत और हौसले से काम लो, सफलता तुम्हारे कदम चूमेगी।",
       "author": "अज्ञात",
